@@ -80,6 +80,11 @@ window.ow_emotes = {
          "width":"89px",
          "height":"86px"
       },
+	      "doge2":{  
+         "url":"http://i.imgur.com/511cPBl.jpg",
+         "width":"94px",
+         "height":"90px"
+      },
 	        "facepalmgif":{  
          "height":"92px",
          "url":"https://i.imgur.com/Jovv7R6.gif",
@@ -89,6 +94,11 @@ window.ow_emotes = {
          "height":"75px",
          "url":"https://i.imgur.com/7pjGsQX.jpg",
          "width":"65px"
+      },
+	"feels1":{
+         "height":"120px",
+         "url":"https://i.imgur.com/rmj7p6s.jpg",
+         "width":"100px"
       },
       "feels2":{  
          "height":"93px",
@@ -129,6 +139,11 @@ window.ow_emotes = {
          "height":"90px",
          "url":"https://i.imgur.com/pgP3EjB.jpg",
          "width":"99px"
+      },
+	feels10":{
+         "height":"92px",
+         "url":"https://i.imgur.com/FFFOcFP.jpg",
+         "width":"90px"
       },
       "feelsbad":{  
          "url":"https://i.imgur.com/Io4Zvs3.jpg",
@@ -508,11 +523,6 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/Yu59ztU.png",
          "width":"90px"
       },
-      "feels1":{
-         "height":"120px",
-         "url":"https://i.imgur.com/rmj7p6s.jpg",
-         "width":"100px"
-      },
       "hu3br":{
          "height":"93px",
          "url":"https://i.imgur.com/lM5EMUZ.jpg",
@@ -522,11 +532,6 @@ window.ow_emotes = {
          "height":"120px",
          "url":"https://i.imgur.com/umm8KTs.jpg",
          "width":"120px"
-      },
-      "feels10":{
-         "height":"92px",
-         "url":"https://i.imgur.com/FFFOcFP.jpg",
-         "width":"90px"
       },
       "idai":{
          "height":"80px",
