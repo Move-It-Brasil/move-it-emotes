@@ -1669,7 +1669,7 @@ window.ow_emotes = {
          "width":"58px"
         }
    },
-	 "Soccer" : {
+	 "Futebol" : {
       "barcelona":{  
          "url":"https://i.imgur.com/OXc6mzV.png",
          "width":"31px",
@@ -1721,7 +1721,7 @@ window.ow_emotes = {
          "height":"35px"
       }
   },
-  "Music" : {
+  "Música" : {
      "afrojack":{
         "url":"http://i.imgur.com/ZTL9rtk.png",
         "width":"75px",
