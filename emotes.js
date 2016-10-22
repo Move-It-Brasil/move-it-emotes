@@ -5,16 +5,6 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/eaYZ3m7.gif",
          "width":"120px"
         },
-        "unclesam":{  
-         "height":"95px",
-         "url":"https://i.imgur.com/jkMm5YL.jpg",
-         "width":"70px"
-        },
-      "Kappa":{  
-         "height":"28px",
-         "url":"https://i.imgur.com/HWTtoSD.png",
-         "width":"25px"
-        },
        "kappagif":{  
          "url":"https://i.imgur.com/ImGltes.gif",
          "width":"40px",
@@ -24,31 +14,6 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/ZaC7iBS.jpg",
          "width":"51px",
          "height":"49px"
-      },
-      "Lenny":{  
-         "height":"27px",
-         "width":"75px",
-         "url":"https://i.imgur.com/hFwoiA5.png"
-      },
-      "Facepalm":{  
-         "height":"35px",
-         "url":"https://i.imgur.com/VjTBSXz.png",
-         "width":"35px"
-      },
-      "fini":{  
-         "url":"https://i.imgur.com/L0HbmSv.png",
-         "width":"31px",
-         "height":"35px"
-      },
-      "fuckyea":{
-         "height":"35px",
-         "url":"https://i.imgur.com/rPGedvQ.png",
-         "width":"31px"
-      },
-      "mrbean":{
-         "height":"35px",
-         "url":"https://i.imgur.com/zGMdKSM.png",
-         "width":"31px"
       },
       "varg":{
          "height":"100px",
@@ -64,11 +29,6 @@ window.ow_emotes = {
          "height":"71px",
          "url":"https://i.imgur.com/OnNLzcA.gif",
          "width":"35px"
-      },
-      "fatality":{  
-         "url":"https://i.imgur.com/QDiLcwq.gif",
-         "width":"84px",
-         "height":"51px"
       },
       "okay":{  
          "height":"50px",
@@ -125,46 +85,6 @@ window.ow_emotes = {
       	"height":"92px",
       	"url":"https://i.imgur.com/FCrmC79.gif"
       },
-      "batpika":{
-       "url":"https://i.imgur.com/0csyj4e.png",
-       "width":"70px",
-       "height":"70px"
-      },
-      "goodnight":{  
-       "url":"https://i.imgur.com/53sUCe5.gif",
-       "width":"127px",
-       "height":"80px"
-      },
-      "genius":{  
-       "url":"https://i.imgur.com/FRUXfYj.png",
-       "width":"81px",
-       "height":"60px"
-      },
-      "bitch":{  
-       "url":"https://i.imgur.com/HIn3Z2J.gif",
-       "width":"111px",
-       "height":"80px"
-      },
-      "hunter":{  
-       "url":"https://i.imgur.com/Anc5bAa.jpg",
-       "width":"180px",
-       "height":"120px"
-      },
-      "frozen":{  
-       "url":"https://i.imgur.com/OrBbpKg.gif",
-       "width":"104px",
-       "height":"90px"
-      },
-      "sad":{  
-       "url":"https://i.imgur.com/z8wyK0s.gif",
-       "width":"109px",
-       "height":"80px"
-      },
-      "killit":{  
-       "url":"https://i.imgur.com/UNMXgJr.gif",
-       "width":"107px",
-       "height":"80px"
-      },
       "hiding":{  
        "url":"https://i.imgur.com/xJx2tpg.gif",
        "width":"107px",
@@ -174,11 +94,6 @@ window.ow_emotes = {
       	"width":"187px",
       	"height":"142px",
       	"url":"https://i.imgur.com/xQLMoma.jpg"
-      },
-      "sanicgif":{  
-         "height":"90px",
-         "url":"https://i.imgur.com/52yzQ5I.gif",
-         "width":"161px"
       },
       "haha":{
          "height":"71px",
@@ -250,65 +165,15 @@ window.ow_emotes = {
          "width":"160px",
          "height":"100px"
       },
-      "wank":{  
-         "height":"100px",
-         "url":"httpS://i.imgur.com/L883Rhz.gif",
-         "width":"135px"
-      },
       "popcorn":{
          "height":"90px",
          "url":"https://i.imgur.com/zQSiTYG.gif",
          "width":"118px"
       },
-      "king":{
-         "height":"90px",
-         "url":"https://i.imgur.com/sfFsio3.png",
-         "width":"277px"
-      },
-      "shot":{
-         "height":"90px",
-         "url":"https://i.imgur.com/WpsqBvo.gif",
-         "width":"170px"
-      },
-      "ponny":{  
-         "height":"50px",
-         "url":"https://i.imgur.com/W4gomLB.gif",
-         "width":"50px"
-      },
-      "skrill":{  
-         "height":"50px",
-         "url":"https://i.imgur.com/uV7Hxbc.gif",
-         "width":"50px"
-      },
-      "thebug":{  
-         "height":"50px",
-         "url":"https://i.imgur.com/bmmX86O.gif",
-         "width":"50px"
-      },
-      "nichi":{  
-         "height":"65px",
-         "url":"https://i.imgur.com/TguLQ6K.jpg",
-         "width":"57px"
-      },
       "bob":{  
          "height":"50px",
          "url":"https://i.imgur.com/yejRBgc.gif",
          "width":"50px"
-      },
-      "salobrena":{  
-       "url":"https://i.imgur.com/rmjOxgx.png",
-       "width":"81px",
-       "height":"104px"
-      },
-      "joseph":{  
-         "height":"121px",
-         "url":"https://i.imgur.com/cyadKv2.jpg",
-         "width":"90px"
-      },
-      "joseph2":{  
-         "height":"96px",
-         "url":"https://i.imgur.com/RKFaPo3.jpg",
-         "width":"129px"
       },
       "god":{ 
       	"url":"https://i.imgur.com/YfG5u6F.gif",
@@ -335,11 +200,6 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/lnhZFB6.gif",
          "width":"140px"
       },
-      "alpaca":{  
-         "height":"50px",
-         "url":"https://i.imgur.com/cLsx49C.gif",
-         "width":"50px"
-      },
       "mlg":{  
          "height":"94px",
          "url":"https://i.imgur.com/vKXhX8b.gif",
@@ -355,49 +215,9 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/CJSAWol.png",
          "width":"124px"
       },
-      "watislove":{
-         "height":"90px",
-         "url":"https://i.imgur.com/hpViBhw.gif",
-         "width":"143px"
-      },
-      "boromir":{
-         "height":"66px",
-         "url":"https://i.imgur.com/s4c6m3f.jpg",
-         "width":"123px"
-      },
-      "highguy":{
-         "height":"82px",
-         "url":"https://i.imgur.com/0XXi7aF.png",
-         "width":"91px"
-      },
-      "highguy2":{
-         "height":"86px",
-         "url":"https://i.imgur.com/B6wKunc.png",
-         "width":"105px"
-      },
-      "sexyhighguy":{
-         "height":"77px",
-         "url":"https://i.imgur.com/ZvpeZVv.png",
-         "width":"101px"
-      },
       "ponny2":{  
          "height":"50px",
          "url":"https://i.imgur.com/KOADBQU.gif",
-         "width":"50px"
-      },
-      "fusion":{  
-         "height":"50px",
-         "url":"https://i.imgur.com/XcdvTtu.gif",
-         "width":"50px"
-      },
-      "bait":{  
-         "url":"https://i.imgur.com/AyHjulQ.gif",
-         "width":"100px",
-         "height":"76px"
-      },
-      "avatar":{  
-         "height":"50px",
-         "url":"https://i.imgur.com/P5ZrmRP.gif",
          "width":"50px"
       },
       "heman":{  
@@ -405,80 +225,25 @@ window.ow_emotes = {
          "width":"70px",
          "height":"48px"
       },
-      "guide":{  
-         "url":"https://i.imgur.com/yAdkMpu.png",
-         "width":"126px",
-         "height":"90px"
-      },
-      "bestcry":{  
-         "url":"https://i.imgur.com/OO1gNKi.gif",
-         "width":"70px",
-         "height":"48px"
-      },
-      "lastkill":{  
-         "url":"https://i.imgur.com/rUCzGSf.jpg",
-         "width":"136px",
-         "height":"89px"
-      },
-      "fishbang":{  
-         "url":"https://i.imgur.com/BC9F1qV.gif",
-         "width":"120px",
-         "height":"80px"
-      },
-      "beavis":{  
-         "url":"https://i.imgur.com/2j9HTyt.gif",
-         "width":"130px",
-         "height":"96px"
-      },
-      "fail":{  
-         "url":"https://i.imgur.com/94puraf.gif",
-         "width":"120px",
-         "height":"80px"
-      },
       "doge":{  
          "url":"https://i.imgur.com/9rQZdFj.jpg",
          "width":"89px",
          "height":"86px"
-      },
-      "ivan":{  
-         "url":"https://i.imgur.com/vI9t0ZC.jpg",
-         "width":"96px",
-         "height":"71px"
       },
       "vibe":{  
          "url":"https://i.imgur.com/w0xUqkt.gif",
          "width":"70px",
          "height":"48px"
       },
-      "bunchie":{  
-         "url":"https://i.imgur.com/6diM286.gif",
-         "width":"70px",
-         "height":"80px"
-      },
       "oh":{  
          "url":"https://i.imgur.com/OZRWuwJ.gif",
          "width":"104px",
          "height":"50px"
       },
-      "sanic":{  
-         "url":"https://i.imgur.com/er4UCZz.png",
-         "width":"38/px",
-         "height":"35px"
-      },
    "tutstuts":{
          "url":"https://dl.dropboxusercontent.com/s/rnz9u2pmuqjsms1/tutstuts.gif",
          "width":"80px",
          "height":"54px"
-      },
-   "molester":{
-         "url":"https://dl.dropboxusercontent.com/s/lmtzhdgjztcb18m/molester.gif",
-         "width":"104px",
-         "height":"80px"
-      },
-      "smiile":{  
-         "height":"50px",
-         "url":"https://i.imgur.com/uM57U6I.gif",
-         "width":"50px"
       },
      "michael":{
          "url":"https://dl.dropboxusercontent.com/s/zlqyshqmfnru8ko/michael.gif",
@@ -490,25 +255,10 @@ window.ow_emotes = {
          "width":"130px",
          "height":"70px"
       },
-      "yaranaika":{
-         "url":"https://i.imgur.com/YeRJUkr.jpg",
-         "width":"88px",
-         "height":"101px"
-      },
       "surprise":{
          "url":"https://i.imgur.com/bdP6uzI.gif",
          "width":"102px",
          "height":"76px"
-      },
-      "wonka":{
-         "url":"https://i.imgur.com/TfsmQ3Z.jpg",
-         "width":"145px",
-         "height":"87px"
-      },
-      "mosh":{  
-         "height":"100px",
-         "url":"https://i.imgur.com/UQiM8Bh.gif",
-         "width":"150px"
       },
         "kim":{
          "url":"https://dl.dropboxusercontent.com/s/imaxuzsen111y3j/aplauso.gif",
@@ -525,16 +275,6 @@ window.ow_emotes = {
       	"width":"120px",
       	"height":"90px"
       },
-      "feargif":{  
-      	"url":"https://i.imgur.com/w7uz0vw.gif",
-      	"width":"160px",
-      	"height":"90px"
-      },
-      "wtfgif":{
-         "url":"https://dl.dropboxusercontent.com/s/ky65dm617j7nkv2/wtf.gif",
-         "width":"160px",
-         "height":"90px"
-      },
        "trap":{
          "url":"https://i.imgur.com/U2UGB8D.png",
          "width":"102px",
@@ -550,116 +290,11 @@ window.ow_emotes = {
          "width":"81px",
          "height":"100px"
       },
-       "blarg":{  
-         "url":"https://i.imgur.com/J5VW4ia.gif",
-         "width":"78px",
-         "height":"60px"
-      },
-       "donvoo":{  
-         "url":"https://i.imgur.com/mEQIRCb.gif",
-         "width":"102px",
-         "height":"62px"
-      },
-      "quit":{  
-         "url":"https://i.imgur.com/wTmQGTG.png",
-         "width":"31px",
-         "height":"35px"
-      },
-      "jhow":{  
-         "url":"https://i.imgur.com/SlpIptB.png",
-         "width":"30px",
-         "height":"31px"
-      },
-       "ook":{  
-         "url":"https://i.imgur.com/dp4Cnid.png",
-         "width":"28px",
-         "height":"28px"
-      },
-       "noob":{  
-         "url":"https://i.imgur.com/hxJqZ1N.png",
-         "width":"28px",
-         "height":"28px"
-      },
-       "lol":{  
-         "url":"https://i.imgur.com/eJXx4er.png",
-         "width":"28px",
-         "height":"28px"
-      },
-      "you":{  
-         "url":"https://i.imgur.com/X8NFKlX.png",
-         "width":"28px",
-         "height":"28px"
-      },
-       "omg":{  
-         "url":"https://i.imgur.com/0o9WEjA.png",
-         "width":"28px",
-         "height":"28px"
-      },
-       "wtf":{  
-         "url":"https://i.imgur.com/xLHzV4T.png",
-         "width":"28px",
-         "height":"28px"
-      },
-      "ranger1":{  
-         "url":"https://i.imgur.com/usaTVmf.png",
-         "width":"28px",
-         "height":"28px"
-      },
-      "ranger2":{  
-         "url":"https://i.imgur.com/D1qBRht.png",
-         "width":"28px",
-         "height":"28px"
-      },
-      "ranger3":{  
-         "url":"https://i.imgur.com/ezF3UWH.png",
-         "width":"28px",
-         "height":"28px"
-      },
-      "ranger4":{  
-         "url":"https://i.imgur.com/MdgA9D7.png",
-         "width":"28px",
-         "height":"28px"
-      },
-      "ranger5":{  
-         "url":"https://i.imgur.com/RuvO5WF.png",
-         "width":"28px",
-         "height":"28px"
-      },
-      "mightygif":{  
-         "url":"https://i.imgur.com/kzRyNAW.gif",
-         "width":"60px",
-         "height":"47px"
-      },
-     "lanna":{  
-         "url":"https://i.imgur.com/BSyp4pV.png",
-         "width":"31px",
-         "height":"35px"
-      },
-      "ranger6":{  
-         "url":"https://i.imgur.com/gAY6ihA.png",
-         "width":"28px",
-         "height":"28px"
-      },
-      "doze":{  
-         "height":"95px",
-         "url":"https://i.imgur.com/i0X4JGS.png;",
-         "width":"134px"     
-      },
       "cj": {
         "height": "48px",
         "width": "38px",
         "url": "https://i.imgur.com/32Nnqmc.png"
         },
-       "pei":{  
-         "url":"https://i.imgur.com/PsxiB3u.gif",
-         "width":"77px",
-         "height":"51px"
-      },
-      "isis":{
-         "url":"https://i.imgur.com/ctMUDGb.png",
-         "width":"97px",
-         "height":"80px"
-      },
       "banger":{  
          "url":"https://i.imgur.com/1OSsdHD.gif",
          "width":"110px",
@@ -694,19 +329,9 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/7qMVolj.gif",
          "width":"120px",
          "height":"120px"
-      },
-      "phantomWow":{  
-         "url":"https://static-cdn.jtvnw.net/jtv_user_pictures/emoticon-12243-src-2b51c081d359cb74-28x28.jpeg",
-         "width":"31px",
-         "height":"35px"
       }
  },
  "Brasileiros": {
-       "Hue":{
-         "height":"35px",
-         "url":"https://i.imgur.com/vjqoMNx.png",
-         "width":"31px"
-       },
        "disposta":{
           "height":"100px",
           "url":"https://imgur.com/7Xr6mJ5.jpg",
@@ -721,11 +346,6 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/hcFHm28.gif",
          "width":"110px",
          "height":"63px"
-       },
-        "naruto":{  
-         "url":"https://i.imgur.com/bkHjNVp.gif",
-         "width":"120px",
-         "height":"90px"
        },
        "tacerto":{  
          "url":"https://i.imgur.com/6dBnnKB.gif",
@@ -817,16 +437,6 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/Z9to5Nl.png",
          "width":"100px"
        },
-       "mcq":{
-         "height":"74px",
-         "url":"https://i.imgur.com/X5R9Orx.jpg",
-         "width":"82px"
-      },
-      "feelsmj":{
-         "height":"101px",
-         "url":"https://i.imgur.com/i0cx6UN.jpg",
-         "width":"116px"
-      },
       "bixao":{
          "height":"100px",
          "url":"https://i.imgur.com/Yu59ztU.png",
@@ -902,11 +512,6 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/df4twj2.png",
          "width":"100px"
       },
-      "tiririca":{
-         "height":"120px",
-         "url":"https://i.imgur.com/SOZ6R1O.jpg",
-         "width":"120px"
-      },
       "anel":{
          "height":"100px",
          "url":"https://i.imgur.com/XoEFSNa.jpg",
@@ -921,16 +526,6 @@ window.ow_emotes = {
          "height":"107px",
          "url":"https://i.imgur.com/uUNdVs7.gif",
          "width":"120px"
-      },
-      "relaxha":{
-         "height":"120px",
-         "url":"https://i.imgur.com/XkhbLVL.gif",
-         "width":"150px"
-      },
-      "pinto":{
-         "height":"100px",
-         "url":"https://i.imgur.com/M4Fbzrl.jpg",
-         "width":"100px"
       },
       "danada":{
          "height":"100px",
@@ -1002,21 +597,6 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/XF5PEKF.png",
          "width":"110px"
       },
-      "seriouslee":{
-         "height":"100px",
-         "url":"https://i.imgur.com/54fKIrl.jpg",
-         "width":"100px"
-      },
-      "em":{
-         "height":"100px",
-         "url":"https://i.imgur.com/qlMQyza.jpg",
-         "width":"115px"
-      },
-      "facacrack":{
-         "height":"120px",
-         "url":"https://i.imgur.com/loRLhnz.jpg",
-         "width":"150px"
-      },
       "moitai":{
          "height":"56px",
          "url":"https://i.imgur.com/X379iNh.png",
@@ -1057,11 +637,6 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/34K5mb7.jpg",
          "width":"120px"
       },
-      "myers":{
-         "height":"100px",
-         "url":"https://i.imgur.com/yR4Vcim.gif",
-         "width":"120px"
-      },
       "jason":{
          "height":"120px",
          "url":"https://i.imgur.com/OrxWC9g.gif",
@@ -1086,11 +661,6 @@ window.ow_emotes = {
          "height":"100px",
          "url":"https://i.imgur.com/fb9caMi.gif",
          "width":"120px"
-      },
-      "rasengao":{
-         "height":"100px",
-         "url":"https://i.imgur.com/COlkcUQ.jpg",
-         "width":"90px"
       },
       "penes":{
          "height":"37px",
@@ -1127,25 +697,10 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/ZGBr0D1.png",
          "width":"120px"
       },
-      "funky":{
-         "height":"28px",
-         "url":"https://i.imgur.com/SB0wfqT.jpg",
-         "width":"28px"
-      },
       "desgraça":{
          "height":"74px",
          "url":"https://i.imgur.com/erZNL5n.png",
          "width":"93px"
-      },
-      "caue":{
-         "height":"50px",
-         "url":"https://i.imgur.com/cRZDj11.jpg",
-         "width":"104px"
-      },
-      "milgrau":{
-         "height":"90px",
-         "url":"https://i.imgur.com/xDZbwok.png",
-         "width":"161px"
       },
       "foda-se":{
          "height":"90px",
@@ -1172,31 +727,6 @@ window.ow_emotes = {
          "width":"28px",
          "height":"28px"
       },
-      "victor":{  
-         "url":"https://i.imgur.com/wOuX2zo.jpg",
-         "width":"329px",
-         "height":"44px"
-      },
-      "cleyton2":{  
-         "url":"https://i.imgur.com/LnEa0PR.gif",
-         "width":"155px",
-         "height":"105px"
-      },
-      "pdp2":{  
-         "url":"https://i.imgur.com/AVBHM0F.png",
-         "width":"231px",
-         "height":"67px"
-      },
-      "bigboss":{  
-         "url":"https://i.imgur.com/lsbGomk.jpg",
-         "width":"193px",
-         "height":"112px"
-      },
-      "vinny":{
-         "height":"65px",
-         "url":"https://i.imgur.com/AhOBaXj.png",
-         "width":"206px"
-      },
       "toma":{  
          "url":"https://i.imgur.com/NFk9jbx.gif?1",
          "width":"102px",
@@ -1211,11 +741,6 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/gV9KPyI.gif",
          "width":"106px",
          "height":"86px"
-      },
-      "ibagens":{  
-         "url":"https://i.imgur.com/bl0tfBN.jpg",
-         "width":"135px",
-         "height":"90px"
       },
       "nentendi":{  
          "url":"https://i.imgur.com/AcN6tOG.gif",
@@ -1412,11 +937,6 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/86nV3Ms.gif",
          "width":"123px"
       },
-      "tapa":{  
-         "height":"75px",
-         "url":"https://i.imgur.com/p8bZveT.png",
-         "width":"101px"
-      },
       "zoeiro":{  
          "height":"57px",
          "url":"https://i.imgur.com/jBr1NaT.jpg",
@@ -1517,16 +1037,6 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/nhz07pH.jpg",
          "width":"156px"
       },
-      "kiko":{  
-         "height":"90px",
-         "url":"https://i.imgur.com/yp0iKfs.gif",
-         "width":"144px"
-      },
-      "faustek":{  
-         "height":"89px",
-         "url":"https://i.imgur.com/Ciet3Lh.jpg",
-         "width":"84px"
-      },
       "poder":{  
          "height":"60px",
          "url":"https://i.imgur.com/DxHp6Ey.jpg",
@@ -1542,81 +1052,10 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/MpFRqto.jpg",
          "width":"81px"
       },
-      "baforada":{  
-         "height":"92px",
-         "url":"https://i.imgur.com/1ROrlOJ.jpg",
-         "width":"141px"
-      },
       "ronaldinho":{  
          "height":"72px",
          "url":"https://i.imgur.com/fitbnt9.jpg",
          "width":"84px"
-      },
-      "piruleta2":{  
-         "height":"90px",
-         "url":"https://i.imgur.com/BOZZemI.jpg",
-         "width":"78px"
-      },
-      "dikarada":{  
-         "height":"88px",
-         "url":"https://i.imgur.com/cWOiX1V.jpg",
-         "width":"88px"
-      },
-      "espertalhão":{  
-         "height":"69px",
-         "url":"https://i.imgur.com/ToQAlgf.jpg",
-         "width":"82px"
-      },
-      "hipotenusa":{  
-         "height":"91px",
-         "url":"https://i.imgur.com/q8bjQQ0.jpg",
-         "width":"105px"
-      },
-      "lençóis":{  
-         "height":"115px",
-         "url":"https://i.imgur.com/E6TwxMO.jpg",
-         "width":"146px"
-      },
-      "mordida":{  
-         "height":"106px",
-         "url":"https://i.imgur.com/Xg3UCOz.jpg",
-         "width":"82px"
-      },
-      "naburo":{  
-         "height":"92px",
-         "url":"https://i.imgur.com/EFCv0C3.jpg",
-         "width":"103px"
-      },
-      "paladino":{  
-         "height":"102px",
-         "url":"https://i.imgur.com/qgxzYXU.jpg",
-         "width":"110px"
-      },
-      "piru":{  
-         "height":"96px",
-         "url":"https://i.imgur.com/Huuxz9x.jpg",
-         "width":"85px"
-      },
-      "bopiti":{  
-         "height":"86px",
-         "url":"https://i.imgur.com/DfoiG3t.jpg",
-         "width":"121px"
-      },
-   
-      "madrugada":{  
-         "height":"86px",
-         "url":"https://i.imgur.com/ABFs2gU.jpg",
-         "width":"92px"
-      },
-      "pergunto":{  
-         "height":"80px",
-         "url":"https://i.imgur.com/nz9q8oa.jpg",
-         "width":"112px"
-      },
-      "picapau":{  
-         "height":"77px",
-         "url":"https://i.imgur.com/EpfCXRM.png",
-         "width":"102px"
       },
       "popeye":{  
          "height":"92px",
@@ -1663,11 +1102,6 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/BvOMvP9.gif",
          "width":"118px"
       },
-      "virj":{
-         "height":"104px",
-         "url":"https://i.imgur.com/WDeHtAa.png",
-         "width":"139px"
-      },
       "hjn":{  
          "height":"63px",
          "url":"https://i.imgur.com/SoZkcP3.jpg",
@@ -1678,20 +1112,10 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/rPIhhjM.gif",
          "width":"104px"
       },
-      "tomarnocu":{  
-         "height":"47px",
-         "url":"https://i.imgur.com/CBcOPoj.jpg",
-         "width":"241px"
-      },
       "calmafera":{  
          "height":"95px",
          "url":"https://i.imgur.com/ZvPsaZ7.jpg",
          "width":"103px"
-      },
-      "ai":{  
-         "height":"95px",
-         "url":"https://i.imgur.com/9nPt2Dk.gif",
-         "width":"120px"
       },
       "rapariga":{  
          "height":"98px",
@@ -1712,11 +1136,6 @@ window.ow_emotes = {
          "height":"104px",
          "url":"https://i.imgur.com/HmB60BT.png",
          "width":"83px"
-      },
-      "crackante":{
-         "height":"104px",
-         "url":"https://i.imgur.com/G5qqjBF.png",
-         "width":"190px"
       },
       "putavida":{  
          "height":"88px",
@@ -1758,11 +1177,6 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/Ps0U7pW.gif",
          "width":"120px"
       },
-      "yudi":{  
-         "height":"93px",
-         "url":"https://i.imgur.com/cIObhMl.jpg",
-         "width":"127px"
-      },
       "sefodeu":{  
          "height":"90px",
          "url":"https://i.imgur.com/S51VdIi.jpg",
@@ -1782,11 +1196,6 @@ window.ow_emotes = {
          "height":"86px",
          "url":"https://i.imgur.com/ORjnzfn.jpg",
          "width":"64px"
-      },
-      "demacol":{  
-         "height":"97px",
-         "url":"https://i.imgur.com/Bdi1ADi.jpg",
-         "width":"70px"
       },
       "chorei":{  
          "height":"88px",
@@ -1833,11 +1242,6 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/pfQVT5U.jpg",
          "width":"79px"
       },
-      "sujou":{  
-         "height":"88px",
-         "url":"https://i.imgur.com/hd29JPY.gif",
-         "width":"108px"
-      },
       "chora3":{  
          "height":"150px",
          "url":"https://i.imgur.com/EtSFqhT.gif",
@@ -1868,11 +1272,6 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/aVrNvoO.gif",
          "width":"50px"
       },
-      "brinks":{  
-         "height":"90px",
-         "url":"https://i.imgur.com/DkQGbjs.jpg",
-         "width":"125px"
-      },
       "talento":{  
          "height":"90px",
          "url":"https://i.imgur.com/qBikFj6.gif",
@@ -1893,11 +1292,6 @@ window.ow_emotes = {
          "width":"70px",
          "height":"48px"
       },
-      "nadar":{  
-         "url":"https://i.imgur.com/t3tpnOf.gif",
-         "width":"102px",
-         "height":"90px"
-      },
       "psg":{  
          "url":"https://i.imgur.com/7DGHT1Z.jpg",
          "width":"161px",
@@ -1908,45 +1302,15 @@ window.ow_emotes = {
          "width":"120px",
          "height":"90px"
       },
-      "rei":{  
-         "url":"https://i.imgur.com/7Nyigun.jpg",
-         "width":"201px",
-         "height":"90px"
-      },
-      "quente":{  
-         "url":"https://i.imgur.com/VU5nU6H.jpg",
-         "width":"100px",
-         "height":"67px"
-      },
-      "exu":{  
-         "url":"https://i.imgur.com/V4DsMxC.png",
-         "width":"104px",
-         "height":"78px"
-      },
       "pesquisa":{  
          "url":"https://i.imgur.com/hlOb17t.jpg",
          "width":"261px",
          "height":"62px"
       },
-      "piruleta":{  
-         "url":"https://i.imgur.com/O9DIs16.gif",
-         "width":"160px",
-         "height":"90px"
-      },
-      "jooj":{  
-         "url":"https://i.imgur.com/JP8UacY.gif",
-         "width":"104px",
-         "height":"100px"
-      },
       "desver":{  
          "url":"https://i.imgur.com/s5Q7YVs.jpg",
          "width":"103px",
          "height":"48px"
-      },
-      "matador":{  
-         "url":"https://i.imgur.com/YUkN7Vr.png",
-         "width":"104px",
-         "height":"80px"
       },
       "pão":{  
          "url":"https://i.imgur.com/7TNXE0O.jpg",
@@ -1962,11 +1326,6 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/jTncWAZ.png",
          "width":"28px",
          "height":"28px"
-      },
-      "aiai":{  
-         "url":"https://i.imgur.com/ET7tvuC.gif",
-         "width":"104px",
-         "height":"88px"
       },
       "vaicry":{  
          "url":"https://i.imgur.com/05uFYdE.png",
@@ -1985,16 +1344,6 @@ window.ow_emotes = {
       },
        "treta":{  
          "url":"https://i.imgur.com/3XiQPSH.gif",
-         "width":"54px",
-         "height":"68px"
-      },
-       "loko":{  
-         "url":"https://i.imgur.com/WgHIVeP.gif",
-         "width":"120px",
-         "height":"90px"
-      },
-      "nigga":{  
-         "url":"https://i.imgur.com/4OcxTYV.gif",
          "width":"54px",
          "height":"68px"
       },
@@ -2053,26 +1402,6 @@ window.ow_emotes = {
          "width":"96px",
          "height":"46px"
       }, 
-      "papaco":{
-         "url":"https://i.imgur.com/OKJJJps.jpg",
-         "width":"104px",
-         "height":"50px"
-      }, 
-      "tainha":{
-         "url":"https://i.imgur.com/zbcDRxQ.jpg",
-        "width":"104px",
-         "height":"50px"
-      }, 
-      "travadão":{
-         "url":"https://i.imgur.com/MDxiEbz.jpg",
-         "width":"46px",
-         "height":"60px"
-      }, 
-      "papaco2":{
-         "url":"https://i.imgur.com/8R1TWc0.jpg",
-         "width":"104px",
-         "height":"50px"
-      }, 
       "erou":{
          "url":"https://i.imgur.com/4wrakbp.jpg",
          "width":"139px",
@@ -2092,11 +1421,6 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/O49ugVB.png",
          "width":"216px",
          "height":"104px"
-      },
-       "parca":{
-         "url":"https://i.imgur.com/AsQFN9e.png",
-         "width":"62px",
-         "height":"110px"
       },
        "dibre":{
          "url":"https://i.imgur.com/oKyrjOv.png",
@@ -2132,16 +1456,6 @@ window.ow_emotes = {
          "url":"https://dl.dropboxusercontent.com/s/ordgqct09npvogd/diva.gif",
          "width":"104px",
          "height":"104px"
-      },
-      "Bam":{  
-         "url":"https://i.imgur.com/ckmKxPq.jpg",
-         "width":"104px",
-         "height":"80px"
-      },
-      "monstro":{  
-         "url":"https://i.imgur.com/1pIrVfq.png",
-         "width":"28px",
-         "height":"28px"
       },
       "monstrogif":{  
          "url":"https://i.imgur.com/15hqUd0.gif",
@@ -2232,16 +1546,6 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/xOX01k3.jpg",
          "width":"72px",
          "height":"70px"
-      },
-      "pikachurusso":{  
-         "url":"https://i.imgur.com/hxhBmOG.jpg",
-         "width":"163px",
-         "height":"109px"
-      },
-      "drift":{  
-         "url":"https://i.imgur.com/M7TtL53.gif",
-         "width":"80px",
-         "height":"60px"
       },
       "chora2":{  
          "url":"https://i.imgur.com/lc3SU60.gif",
