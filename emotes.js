@@ -702,7 +702,7 @@ window.ow_emotes = {
          "height":"35px"
       }
  },
-
+ "Brasil" : {
        "Hue":{
          "height":"35px",
          "url":"https://i.imgur.com/vjqoMNx.png",
