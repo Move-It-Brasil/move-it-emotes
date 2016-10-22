@@ -410,16 +410,6 @@ window.ow_emotes = {
          "height":"100px",
          "url":"https://i.imgur.com/5nIIgVS.jpg",
          "width":"100px"
-      },
-      "maigode":{
-         "height":"90px",
-         "url":"https://i.imgur.com/6kZ4Br6.jpg",
-         "width":"100px"
-      },
-      "maigode2":{
-         "height":"100px",
-         "url":"https://i.imgur.com/n79SjXm.jpg",
-         "width":"100px"
       }
  },
  "Brasileiros": {
