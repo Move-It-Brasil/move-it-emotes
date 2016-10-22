@@ -240,11 +240,6 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/uUNdVs7.gif",
          "width":"120px"
       },
-	    "legolas":{
-      	"width":"130px",
-      	"height":"97px",
-      	"url":"https://i.imgur.com/JokF01j.gif"
-      },
 	        "lennygif":{  
          "height":"90px",
          "url":"https://i.imgur.com/OSdFEcj.gif",
@@ -477,11 +472,6 @@ window.ow_emotes = {
          "height":"100px",
          "url":"https://imgur.com/4NdIVTN.jpg",
          "width":"130px"
-       },
-       "uehue":{
-         "height":"90px",
-         "url":"https://i.imgur.com/Q1bh0mL.jpg",
-         "width":"190px"
        },
        "lennyface":{
          "height":"47px",
@@ -718,20 +708,10 @@ window.ow_emotes = {
          "width":"28px",
          "height":"28px"
       },
-      "toma":{  
-         "url":"https://i.imgur.com/NFk9jbx.gif?1",
-         "width":"102px",
-         "height":"77px"
-      },
       "uau":{  
          "url":"https://i.imgur.com/InFJRi3.gif",
          "width":"108px",
          "height":"88px"
-      },
-      "burraum":{  
-         "url":"https://i.imgur.com/gV9KPyI.gif",
-         "width":"106px",
-         "height":"86px"
       },
       "nentendi":{  
          "url":"https://i.imgur.com/AcN6tOG.gif",
@@ -1033,11 +1013,6 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/hMZaAIg.gif",
          "width":"160px"
       },
-      "cachorra":{  
-         "height":"87px",
-         "url":"https://i.imgur.com/MpFRqto.jpg",
-         "width":"81px"
-      },
       "popeye":{  
          "height":"92px",
          "url":"https://i.imgur.com/O5nQ086.gif",
@@ -1108,11 +1083,6 @@ window.ow_emotes = {
          "width":"120px",
          "height":"90px"
       },
-      "naopodese":{  
-         "height":"90px",
-         "url":"https://i.imgur.com/q4nxSjA.gif",
-         "width":"91px"
-      },
       "providencia":{  
          "height":"104px",
          "url":"https://i.imgur.com/HmB60BT.png",
@@ -1122,11 +1092,6 @@ window.ow_emotes = {
          "height":"88px",
          "url":"https://i.imgur.com/dhnwM5I.gif",
          "width":"104px"
-      },
-      "travadão2":{  
-         "height":"75px",
-         "url":"https://i.imgur.com/Li46Bhh.jpg",
-         "width":"85px"
       },
       "viadagem":{  
          "height":"89px",
@@ -1192,11 +1157,6 @@ window.ow_emotes = {
          "height":"72px",
          "url":"https://i.imgur.com/zkO4uuS.jpg",
          "width":"95px"
-      },
-      "bengay":{  
-         "height":"40px",
-         "url":"https://i.imgur.com/RbmI3ot.jpg",
-         "width":"97px"
       },
       "viadão":{  
          "height":"80px",
@@ -1487,11 +1447,6 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/v9h01r1.png",
          "width":"100px",
          "height":"100px"
-      },
-      "numintendi":{  
-         "url":"https://i.imgur.com/pB51GvI.jpg",
-         "width":"120px",
-         "height":"110px"
       },
       "corre":{  
          "url":"https://i.imgur.com/LrT4c1X.jpg",
