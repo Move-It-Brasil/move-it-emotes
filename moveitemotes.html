@@ -21,10 +21,15 @@ body {
 h1 {
     color: red;
 }
+body {
+    -moz-transform: scale(0.9, 0.9); /* Moz-browsers */
+    zoom: 0.9; /* Other non-webkit browsers */
+    zoom: 90%; /* Webkit browsers */
+}
 </style>
 <script>
 	var xmlhttp = new XMLHttpRequest(),
-		url = "https://rawgit.com/Move-It-Brasil/move-it-emotes/master/emotes.js";
+		url = "https://rawgit.com/Move-It-Brasil/move-it-emotes/master/moveitemotes.js";
 
 	xmlhttp.onreadystatechange = function() {
 		if (xmlhttp.readyState == 4 && xmlhttp.status == 200){
