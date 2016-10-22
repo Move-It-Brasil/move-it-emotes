@@ -1,4 +1,7 @@
 window.ow_emotes = {
+<input type="checkbox"  id="spoiler2" /> 
+<label for="spoiler2" >Spoiler</label>
+<div class="spoiler">
  "Diversos":{
       "axl":{  
          "height":"100px",
@@ -331,6 +334,7 @@ window.ow_emotes = {
          "height":"120px"
       }
  },
+ </div>
  "Brasileiros": {
        "disposta":{
           "height":"100px",
