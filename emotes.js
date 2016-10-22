@@ -58,7 +58,7 @@ window.ow_emotes = {
 		 "cj": {
         "height": "48px",
         "width": "38px",
-        "url": "https://i.imgur.com/32Nnqmc.png"
+        "url": "https://i.imgur.com/32Nnqmc.png",
         },
 		"damn":{
          "height":"90px",
@@ -68,7 +68,7 @@ window.ow_emotes = {
 		"darkness":{
       	"width":"187px",
       	"height":"142px",
-      	"url":"https://i.imgur.com/xQLMoma.jpg"
+      	"url":"https://i.imgur.com/xQLMoma.jpg",
       },
 		"dirp":{  
          "url":"https://i.imgur.com/ZaC7iBS.jpg",
@@ -140,7 +140,7 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/pgP3EjB.jpg",
          "width":"99px"
       },
-	feels10":{
+	"feels10":{
          "height":"92px",
          "url":"https://i.imgur.com/FFFOcFP.jpg",
          "width":"90px"
@@ -173,7 +173,7 @@ window.ow_emotes = {
 	       "gandalf":{
       	"width":"140px",
       	"height":"70px",
-      	"url":"https://i.imgur.com/QbVCQEa.gif"
+      	"url":"https://i.imgur.com/QbVCQEa.gif",
       },
 	        "god":{ 
       	"url":"https://i.imgur.com/YfG5u6F.gif",
@@ -766,22 +766,22 @@ window.ow_emotes = {
       "popeye":{
       	"width":"123px",
       	"height":"92px",
-      	"url":"https://i.imgur.com/HvCD34r.gif"
+      	"url":"https://i.imgur.com/HvCD34r.gif",
       },
       "diney":{
       	"width":"123px",
       	"height":"92px",
-      	"url":"https://i.imgur.com/6IN6Pxu.gif"
+      	"url":"https://i.imgur.com/6IN6Pxu.gif",
       },
       "coração":{
       	"width":"90px",
       	"height":"90px",
-      	"url":"https://i.imgur.com/stGYuBH.jpg"
+      	"url":"https://i.imgur.com/stGYuBH.jpg",
       },
       "dribe4":{
       	"width":"136px",
       	"height":"90px",
-      	"url":"https://i.imgur.com/CjizyLK.jpg"
+      	"url":"https://i.imgur.com/CjizyLK.jpg",
       },
       "ficouoh":{  
          "url":"https://i.imgur.com/h1ZFm2P.jpg",
@@ -791,7 +791,7 @@ window.ow_emotes = {
       "dlç5":{
       	"width":"90px",
       	"height":"90px",
-      	"url":"https://i.imgur.com/SnIVw8Q.jpg"
+      	"url":"https://i.imgur.com/SnIVw8Q.jpg",
       },
       "oxe":{
          "url":"https://i.imgur.com/6m4EzlB.gif",
