@@ -1040,7 +1040,7 @@ window.ow_emotes = {
         },
 		"invitation":{  
          "url":"http://i.imgur.com/3ZaIiJZ.png",
-         "width":"346px",
+         "width":"300px",
          "height":"50px"
         },
 		"jachega":{  
