@@ -1,5 +1,5 @@
 window.ow_emotes = {
- "Miscellaneous":{
+ "Diversos":{
       "axl":{  
          "height":"100px",
          "url":"https://i.imgur.com/eaYZ3m7.gif",
@@ -701,7 +701,7 @@ window.ow_emotes = {
          "height":"35px"
       }
  },
- "Brazilians": {
+ "Brasileiros": {
        "Hue":{
          "height":"35px",
          "url":"https://i.imgur.com/vjqoMNx.png",
@@ -2279,7 +2279,7 @@ window.ow_emotes = {
          "height":"65px"
       }
  },
- "Soccer" : {
+ "Futebol" : {
       "barcelona":{  
          "url":"https://i.imgur.com/OXc6mzV.png",
          "width":"31px",
@@ -2331,7 +2331,7 @@ window.ow_emotes = {
          "height":"35px"
       }
   },
-  "Music" : {
+  "Música" : {
      "afrojack":{
         "url":"http://i.imgur.com/ZTL9rtk.png",
         "width":"75px",
