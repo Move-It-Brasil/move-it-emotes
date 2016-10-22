@@ -462,11 +462,6 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/FFFOcFP.jpg",
          "width":"90px"
       },
-      "vaitomar":{
-         "height":"80px",
-         "url":"https://i.imgur.com/Ipmcfx2.jpg",
-         "width":"120px"
-      },
       "idai":{
          "height":"80px",
          "url":"https://i.imgur.com/OgHQCry.jpg",
@@ -1051,11 +1046,6 @@ window.ow_emotes = {
          "height":"87px",
          "url":"https://i.imgur.com/MpFRqto.jpg",
          "width":"81px"
-      },
-      "ronaldinho":{  
-         "height":"72px",
-         "url":"https://i.imgur.com/fitbnt9.jpg",
-         "width":"84px"
       },
       "popeye":{  
          "height":"92px",
