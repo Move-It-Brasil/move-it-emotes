@@ -1153,6 +1153,11 @@ window.ow_emotes = {
          "width":"90px",
          "height":"90px"
         },
+	 	"marinho":{  
+         "url":"http://i.imgur.com/1fi0yJK.png",
+         "width":"93px",
+         "height":"165px"
+        },
 		"masc":{  
          "url":"https://i.imgur.com/O49ugVB.png",
          "width":"216px",
