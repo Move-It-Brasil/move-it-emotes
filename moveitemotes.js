@@ -568,6 +568,11 @@ window.ow_emotes = {
          "width":"66px",
          "height":"56px"
         },
+	 	"cazalbe3":{  
+         "url":"http://i.imgur.com/GaZMeSm.gif",
+         "width":"120px",
+         "height":"160px"
+        },
 		"chega":{  
          "url":"https://i.imgur.com/chizmUF.gif",
          "width":"130px",
