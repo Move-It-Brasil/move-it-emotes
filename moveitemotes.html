@@ -11,7 +11,8 @@
 		<br/><br/>
     <a href="https://plug.dj/move-it" target="_blank">Junte-se a Festa!</a>
         <br/><br/> <a href="https://www.facebook.com/groups/MoveItBrasil/" target="_blank">Conheça nosso grupo no Facebook.</a>
-
+ <a href="#" class="ico">Email Link</a>
+ <a href="#" class="ico">Another Link</a>
 </div>
 		<br/><br/>
 		
@@ -34,18 +35,36 @@ body {
 }
 .header img {
   float: none;
-  width: 984px;
-  height: 248px;
+  width: 1115px;
+  height: 275px;
   background: none;
 }
 .emotes { 
 transition: all .1s ease-in-out; 
 }
 .emotes:hover {
-    transform: scale(1.5);
+    transform: scale(1.4);
     transition: 0.3s;
     background-position: initial;
     background-repeat: no-repeat !important;
+}
+.ico{
+    width:100px;
+    display:block;
+    height:20px;
+    background:black;
+    color:white;
+    text-decoration:none;
+    padding-left:20px;
+}
+.ico:before{
+    content: '';
+    background:url('https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSj3XfIpf-OOJRCcWz4iN2CU3qMKVVbj0p0bRvKNGVo1U9pk_8ZIlyR8pWreA');
+    background-size:cover;
+        position:absolute;
+    width:20px;
+    height:20px;
+    margin-left:-20px;
 }
 </style>
 <script>
