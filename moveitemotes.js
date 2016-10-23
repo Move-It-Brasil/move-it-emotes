@@ -843,6 +843,11 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/GIfMPSz.jpg",
          "width":"100px"
         },
+	 	"docil":{  
+         "height":"124px",
+         "url":"https://i.imgur.com/GIfMPSz.jpg",
+         "width":"128px"
+        },
 		"dollynho":{  
          "url":"https://i.imgur.com/66UwC9Q.jpg",
          "width":"108px",
