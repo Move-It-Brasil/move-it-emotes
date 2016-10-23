@@ -988,6 +988,11 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/4f7LR3B.jpg",
          "width":"120px"
         },
+	 	"gorila":{  
+         "height":"116px",
+         "url":"http://i.imgur.com/uX0nWaU.png",
+         "width":"115px"
+        },
 		"hino":{  
          "height":"108px",
          "url":"http://i.imgur.com/sued5LA.gif",
