@@ -923,7 +923,7 @@ window.ow_emotes = {
          "width":"136px",
          "height":"141px"
         },
-	 	"faustao":{  
+	 	"faustão":{  
          "url":"http://i.imgur.com/SX0OANN.gif",
          "width":"123px",
          "height":"140px"
