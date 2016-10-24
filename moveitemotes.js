@@ -1333,6 +1333,11 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/deJHDnl.gif",
          "width":"160px"
         },
+	 	"patrão":{  
+         "height":"127px",
+         "url":"http://i.imgur.com/U1gaFRq.png",
+         "width":"153px"
+        },
 		"pclixo":{  
          "height":"50px",
          "url":"https://i.imgur.com/aVrNvoO.gif",
@@ -1412,6 +1417,11 @@ window.ow_emotes = {
          "height":"97px",
          "url":"http://i.imgur.com/1ytVUXI.jpg",
          "width":"130px"
+        },
+	 	"punhetão":{  
+         "height":"106px",
+         "url":"http://i.imgur.com/O4ExeEm.png",
+         "width":"134px"
         },
 		"punheteiro":{  
          "url":"https://i.imgur.com/OVayNxL.png",
@@ -1682,6 +1692,11 @@ window.ow_emotes = {
          "height":"65px",
          "url":"http://i.imgur.com/lADgrIQ.jpg?1",
          "width":"326px"
+        },
+	 	"war2":{  
+         "height":"127x",
+         "url":"http://i.picasion.com/resize82/d066dde436bc158651ebb80bd85a2f97.gif",
+         "width":"130px"
         },
 		"xablau":{  
          "url":"https://i.imgur.com/uEHQSrA.gif",
