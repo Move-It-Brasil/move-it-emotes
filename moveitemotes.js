@@ -983,6 +983,11 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/bfDKHgM.gif",
          "width":"160px"
         },
+	 	"frio":{  
+         "url":"http://i.imgur.com/noV17ej.png",
+         "width":"120px",
+         "height":"166px"
+        },
 		"gato":{  
          "height":"70px",
          "url":"https://i.imgur.com/wRI10nK.gif",
