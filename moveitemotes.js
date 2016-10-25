@@ -1773,7 +1773,7 @@ window.ow_emotes = {
         "height":"12px"
      },
      "alesso":{
-        "url":"http://i.imgur.com/yYdUymF.png",
+        "url":"http://i.imgur.com/FXOd6SF.png",
         "width":"70px",
         "height":"23px"
      },
