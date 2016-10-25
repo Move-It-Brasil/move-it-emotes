@@ -1772,6 +1772,11 @@ window.ow_emotes = {
         "width":"75px",
         "height":"12px"
      },
+     "alesso":{
+        "url":"http://i.imgur.com/yYdUymF.png",
+        "width":"70px",
+        "height":"23px"
+     },
      "arminvanbuuren":{
         "url":"http://i.imgur.com/1gi73aE.png",
         "width":"74px",
