@@ -727,9 +727,9 @@ window.ow_emotes = {
          "height":"59px",
          "url":"http://i.imgur.com/jh3akVl.png",
          "width":"334px",
-	 "-moz-transform":"scale(0.9, 0.9)",
-          "zoom":"0.9",
-          "zoom":"90%"
+	 "-moz-transform":"scale(0.5, 0.5)",
+          "zoom":"0.5",
+          "zoom":"50%"
         },
 		"destruidora":{  
          "url":"https://i.imgur.com/d6jxPLi.gif",
