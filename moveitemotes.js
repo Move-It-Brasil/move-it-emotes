@@ -855,7 +855,7 @@ window.ow_emotes = {
         },
 	 	"docil":{  
          "height":"124px",
-         "url":"https://i.imgur.com/GIfMPSz.jpg",
+         "url":"http://i.imgur.com/4o2FglN.png",
          "width":"128px"
         },
 		"dollynho":{  
