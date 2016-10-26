@@ -688,6 +688,11 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/jJotain.png",
          "width":"100px"
         },
+	 	"danada2":{  
+         "height":"116px",
+         "url":"http://i.imgur.com/X3SBiav.png",
+         "width":"143px"
+        },
 		"dazero":{  
          "url":"https://i.imgur.com/88ADPRt.png",
          "width":"110px",
@@ -717,6 +722,11 @@ window.ow_emotes = {
          "height":"74px",
          "url":"https://i.imgur.com/erZNL5n.png",
          "width":"93px"
+        },
+	 	"dashing":{  
+         "height":"59px",
+         "url":"http://i.imgur.com/jh3akVl.png",
+         "width":"334px"
         },
 		"destruidora":{  
          "url":"https://i.imgur.com/d6jxPLi.gif",
@@ -934,10 +944,15 @@ window.ow_emotes = {
          "height":"140px"
         },
 		"ficouoh":{  
+         "url":"http://i.imgur.com/8y2SXIF.png",
+         "width":"138px",
+         "height":"104px"
+        },
+	 	"ficouoh":{  
          "url":"https://i.imgur.com/h1ZFm2P.jpg",
          "width":"79px",
          "height":"55px"
-		},
+        },
 		"foda-se":{  
          "height":"90px",
          "url":"https://i.imgur.com/8pBXLn7.gif",
@@ -1007,6 +1022,11 @@ window.ow_emotes = {
          "height":"116px",
          "url":"http://i.imgur.com/uX0nWaU.png",
          "width":"115px"
+        },
+	 	"hack":{  
+         "height":"141px",
+         "url":"http://i.imgur.com/0jO2pig.png",
+         "width":"137px"
         },
 		"hino":{  
          "height":"108px",
@@ -1598,6 +1618,11 @@ window.ow_emotes = {
          "width":"54px",
          "height":"68px"
         },
+	 	"treta2":{  
+         "url":"http://i.imgur.com/CPnPfcN.png",
+         "width":"149px",
+         "height":"112px"
+        },
 		"uau":{  
          "url":"https://i.imgur.com/InFJRi3.gif",
          "width":"108px",
@@ -1677,6 +1702,16 @@ window.ow_emotes = {
          "height":"124px",
          "url":"http://i.imgur.com/mJpxSjk.gif",
          "width":"165px"
+        },
+	 	"viadão10":{  
+         "height":"107px",
+         "url":"http://i.imgur.com/10nyxoc.png",
+         "width":"197px"
+        },
+	 	"viadão11":{  
+         "height":"113px",
+         "url":"http://i.imgur.com/lFKJNft.jpg",
+         "width":"196px"
         },
 		"viadãobonito":{  
          "height":"72px",
