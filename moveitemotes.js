@@ -827,9 +827,9 @@ window.ow_emotes = {
          "height":"28px"
         },
 		"dlç2":{  
-         "url":"https://i.imgur.com/OgwkZzo.png",
-         "width":"28px",
-         "height":"28px"
+         "url":"https://i.imgur.com/JZ8VKWc.jpg",
+         "width":"55px",
+         "height":"55px"
         },
 		"dlç3":{  
          "url":"https://i.imgur.com/e445lXo.png",
