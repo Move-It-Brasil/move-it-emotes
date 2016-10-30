@@ -448,6 +448,11 @@ window.ow_emotes = {
          "width":"185px",
          "height":"104px"
         },
+	 	"alahu":{  
+         "url":"https://i.imgur.com/dLU83pq.gif",
+         "width":"127px",
+         "height":"112px"
+        },
 		"anel":{  
          "height":"100px",
          "url":"https://i.imgur.com/XoEFSNa.jpg",
@@ -457,6 +462,11 @@ window.ow_emotes = {
          "height":"100px",
          "url":"https://i.imgur.com/nlscXR7.gif",
          "width":"120px"
+        },
+	 	"applause":{  
+         "height":"105px",
+         "url":"http://i.imgur.com/vOEYUC3.jpg",
+         "width":"140px"
         },
 		"away":{  
          "height":"88px",
@@ -1430,6 +1440,11 @@ window.ow_emotes = {
          "height":"104px",
          "url":"https://i.imgur.com/HmB60BT.png",
          "width":"83px"
+        },
+	 	"programa":{  
+         "height":"144px",
+         "url":"http://i.imgur.com/niM2b5q.jpg",
+         "width":"110px"
         },
 		"psg":{  
          "url":"https://i.imgur.com/7DGHT1Z.jpg",
