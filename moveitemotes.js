@@ -1286,6 +1286,11 @@ window.ow_emotes = {
          "width":"106px",
          "height":"80px"
         },
+	 	"nojo":{  
+         "height":"118px",
+         "url":"http://i.imgur.com/Zcl8qPR.png",
+         "width":"129px"
+        },
 		"nossa":{  
          "height":"120px",
          "url":"https://i.imgur.com/FgrAWii.jpg",
@@ -1630,6 +1635,11 @@ window.ow_emotes = {
          "height":"113px",
          "url":"https://i.imgur.com/dLxtSmc.png",
          "width":"200px"
+        },
+	 	"torcedor":{  
+         "height":"118px",
+         "url":"http://i.imgur.com/ziiD7ZL.jpg",
+         "width":"144px"
         },
 		"treta":{  
          "url":"https://i.imgur.com/3XiQPSH.gif",
