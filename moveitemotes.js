@@ -693,6 +693,11 @@ window.ow_emotes = {
          "url":"http://i.imgur.com/xAi5XWL.gif",
          "width":"135px"
         },
+	 	"dança9":{  
+         "height":"96px",
+         "url":"http://i.imgur.com/XdSqpTM.gif",
+         "width":"144px"
+        },
 		"danada":{  
          "height":"100px",
          "url":"https://i.imgur.com/jJotain.png",
@@ -737,9 +742,6 @@ window.ow_emotes = {
          "height":"59px",
          "url":"http://i.imgur.com/jh3akVl.png",
          "width":"334px",
-	 "-moz-transform":"scale(0.5, 0.5)",
-          "zoom":"0.5",
-          "zoom":"50%"
         },
 		"destruidora":{  
          "url":"https://i.imgur.com/d6jxPLi.gif",
@@ -1030,6 +1032,11 @@ window.ow_emotes = {
          "height":"100px",
          "url":"https://i.imgur.com/4f7LR3B.jpg",
          "width":"120px"
+        },
+	 	"gstv":{  
+         "height":"102px",
+         "url":"http://i.imgur.com/fju5hwW.jpg",
+         "width":"145px"
         },
 	 	"gorila":{  
          "height":"116px",
@@ -1546,6 +1553,11 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/3bs2prg.jpg",
          "width":"92px"
         },
+	 	"sabotage":{  
+         "url":"https://i.imgur.com/I80DvSW.png",
+         "width":"329px",
+         "height":"87px"
+        },
 		"sai":{  
          "url":"https://i.imgur.com/I80DvSW.png",
          "width":"104px",
@@ -1640,6 +1652,11 @@ window.ow_emotes = {
          "height":"118px",
          "url":"http://i.imgur.com/ziiD7ZL.jpg",
          "width":"144px"
+        },
+	 	"torcedor2":{  
+         "height":"114px",
+         "url":"http://i.imgur.com/IngtJhI.png",
+         "width":"154px"
         },
 		"treta":{  
          "url":"https://i.imgur.com/3XiQPSH.gif",
