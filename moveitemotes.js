@@ -741,7 +741,7 @@ window.ow_emotes = {
 	 	"dashing":{  
          "height":"59px",
          "url":"http://i.imgur.com/jh3akVl.png",
-         "width":"334px",
+         "width":"334px"
         },
 		"destruidora":{  
          "url":"https://i.imgur.com/d6jxPLi.gif",
