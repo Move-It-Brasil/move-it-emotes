@@ -1559,7 +1559,7 @@ window.ow_emotes = {
          "width":"92px"
         },
 	 	"sabotage":{  
-         "url":"https://i.imgur.com/I80DvSW.png",
+         "url":"http://i.imgur.com/sGZdF3D.png",
          "width":"329px",
          "height":"87px"
         },
