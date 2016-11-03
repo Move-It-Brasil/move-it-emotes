@@ -868,6 +868,11 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/GIfMPSz.jpg",
          "width":"100px"
         },
+	 	"docinho":{  
+         "height":"55px",
+         "url":"http://i.imgur.com/zkff22d.png",
+         "width":"338px"
+        },
 	 	"docil":{  
          "height":"124px",
          "url":"http://i.imgur.com/4o2FglN.png",
@@ -1557,6 +1562,11 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/I80DvSW.png",
          "width":"329px",
          "height":"87px"
+        },
+	 	"sabotage2":{  
+         "url":"http://i.imgur.com/Ix4daqv.png",
+         "width":"335px",
+         "height":"142px"
         },
 		"sai":{  
          "url":"https://i.imgur.com/I80DvSW.png",
