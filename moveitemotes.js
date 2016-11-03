@@ -708,6 +708,11 @@ window.ow_emotes = {
          "url":"http://i.imgur.com/X3SBiav.png",
          "width":"143px"
         },
+	          "dashing":{  
+         "height":"37px",
+         "url":"http://i.imgur.com/JwsjOVV.png",
+         "width":"195px"
+        },
 		"dazero":{  
          "url":"https://i.imgur.com/88ADPRt.png",
          "width":"110px",
@@ -737,11 +742,6 @@ window.ow_emotes = {
          "height":"74px",
          "url":"https://i.imgur.com/erZNL5n.png",
          "width":"93px"
-        },
-	 	"dashing":{  
-         "height":"59px",
-         "url":"http://i.imgur.com/jh3akVl.png",
-         "width":"334px"
         },
 		"destruidora":{  
          "url":"https://i.imgur.com/d6jxPLi.gif",
