@@ -698,6 +698,26 @@ window.ow_emotes = {
          "url":"http://i.imgur.com/XdSqpTM.gif",
          "width":"144px"
         },
+	 	"dança10":{  
+         "height":"85px",
+         "url":"http://i.imgur.com/I7EKlSa.gif",
+         "width":"151px"
+        },
+	 	"dança11":{  
+         "height":"84px",
+         "url":"http://i.imgur.com/ohGVaBH.gif",
+         "width":"143px"
+        },
+	 	"dança12":{  
+         "height":"105px",
+         "url":"http://i.imgur.com/71FJDWi.gif",
+         "width":"105px"
+        },
+	 	"dança13":{  
+         "height":"105px",
+         "url":"http://i.imgur.com/waok7dM.gif",
+         "width":"130px"
+        },
 		"danada":{  
          "height":"100px",
          "url":"https://i.imgur.com/jJotain.png",
@@ -912,6 +932,21 @@ window.ow_emotes = {
          "width":"136px",
       	 "height":"90px",
       	 "url":"https://i.imgur.com/CjizyLK.jpg",
+        },
+	 	"duda":{  
+         "height":"56px",
+         "url":"http://i.imgur.com/TkbPNGh.png",
+         "width":"220px"
+        },
+	 	"eduarda":{  
+         "height":"46px",
+         "url":"http://i.imgur.com/NRq4pTl.png",
+         "width":"220px"
+        },
+	 	"eduarda2":{  
+         "height":"108px",
+         "url":"http://i.imgur.com/BJiJ9dg.png",
+         "width":"220px"
         },
 		"empolgante":{  
          "height":"130px",
@@ -1552,6 +1587,11 @@ window.ow_emotes = {
          "height":"88px",
          "url":"https://i.imgur.com/hzqgxR6.gif",
          "width":"102px"
+        },
+	 	"risos":{  
+         "height":"108px",
+         "url":"http://i.imgur.com/1FDa42O.gif",
+         "width":"144px"
         },
 		"rosque":{  
          "height":"69px",
