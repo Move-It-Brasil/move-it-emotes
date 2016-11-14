@@ -413,6 +413,11 @@ window.ow_emotes = {
       }
  },
  "Brasileiros": {
+	      "ébixa":{  
+         "height":"103px",
+         "url":"http://i.imgur.com/czixYkx.png",
+         "width":"142px"
+        },
              "émermo":{  
          "height":"90px",
          "url":"https://i.imgur.com/Ps0U7pW.gif",
@@ -652,6 +657,11 @@ window.ow_emotes = {
          "height":"92px",
          "url":"https://i.imgur.com/DGaDOyK.gif",
          "width":"123px"
+        },
+	 	"dab":{  
+         "url":"http://i.imgur.com/RSB9I90.gif",
+         "width":"140px",
+         "height":"77px"
         },
 		"dança":{  
          "url":"https://i.imgur.com/E3dkL3t.gif",
@@ -1442,6 +1452,11 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/hlOb17t.jpg",
          "width":"261px",
          "height":"62px"
+        },
+	 	"pilantra":{  
+         "height":"93px",
+         "url":"http://i.imgur.com/vmqrvck.png",
+         "width":"143px"
         },
 		"pingu":{  
          "height":"107px",
