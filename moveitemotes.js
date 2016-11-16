@@ -412,6 +412,64 @@ window.ow_emotes = {
          "width":"100px"
       }
  },
+ "Usuários Move-It": {
+	 "dashing":{  
+         "height":"39px",
+         "url":"http://i.imgur.com/vQ1zH67.png",
+         "width":"220px"
+        },
+	 "docinho":{  
+         "height":"36px",
+         "url":"http://i.imgur.com/fvNhZhO.png",
+         "width":"220px"
+        },
+	 "duda":{  
+         "height":"56px",
+         "url":"http://i.imgur.com/TkbPNGh.png",
+         "width":"220px"
+        },
+	 "eduarda":{  
+         "height":"46px",
+         "url":"http://i.imgur.com/NRq4pTl.png",
+         "width":"220px"
+        },
+	 "eduarda2":{  
+         "height":"108px",
+         "url":"http://i.imgur.com/BJiJ9dg.png",
+         "width":"220px"
+        },
+	 "invitation":{  
+         "url":"http://i.imgur.com/43YSzo0.png",
+         "width":"220px",
+         "height":"32px"
+        },
+	 "sabotage":{  
+         "url":"http://i.imgur.com/DxkUpMG.png",
+         "width":"220px",
+         "height":"58px"
+        },
+	 "sabotage2":{  
+         "url":"http://i.imgur.com/iYWsush.png",
+         "width":"220px",
+         "height":"93px"
+        },
+	 
+	"sabotage3":{  
+         "url":"http://i.imgur.com/JzOVZRc.png",
+         "width":"220px",
+         "height":"71px"
+        },
+	 "sabotage4":{  
+         "url":"http://i.imgur.com/axEb3yh.png",
+         "width":"220px",
+         "height":"43px"
+        },
+	 "warlocked":{  
+         "height":"44px",
+         "url":"http://i.imgur.com/bFy0SGJ.png",
+         "width":"220px"
+        }
+ },
  "Brasileiros": {
 	      "ébixa":{  
          "height":"103px",
@@ -738,11 +796,6 @@ window.ow_emotes = {
          "url":"http://i.imgur.com/X3SBiav.png",
          "width":"143px"
         },
-	          "dashing":{  
-         "height":"39px",
-         "url":"http://i.imgur.com/vQ1zH67.png",
-         "width":"220px"
-        },
 		"dazero":{  
          "url":"https://i.imgur.com/88ADPRt.png",
          "width":"110px",
@@ -898,11 +951,6 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/GIfMPSz.jpg",
          "width":"100px"
         },
-	 	"docinho":{  
-         "height":"36px",
-         "url":"http://i.imgur.com/fvNhZhO.png",
-         "width":"220px"
-        },
 	 	"docil":{  
          "height":"124px",
          "url":"http://i.imgur.com/4o2FglN.png",
@@ -942,21 +990,6 @@ window.ow_emotes = {
          "width":"136px",
       	 "height":"90px",
       	 "url":"https://i.imgur.com/CjizyLK.jpg",
-        },
-	 	"duda":{  
-         "height":"56px",
-         "url":"http://i.imgur.com/TkbPNGh.png",
-         "width":"220px"
-        },
-	 	"eduarda":{  
-         "height":"46px",
-         "url":"http://i.imgur.com/NRq4pTl.png",
-         "width":"220px"
-        },
-	 	"eduarda2":{  
-         "height":"108px",
-         "url":"http://i.imgur.com/BJiJ9dg.png",
-         "width":"220px"
         },
 		"empolgante":{  
          "height":"130px",
@@ -1152,11 +1185,6 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/XuJbgWk.gif",
          "width":"150px",
          "height":"70px"
-        },
-		"invitation":{  
-         "url":"http://i.imgur.com/43YSzo0.png",
-         "width":"220px",
-         "height":"32px"
         },
 		"jachega":{  
          "height":"120px",
@@ -1613,16 +1641,6 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/3bs2prg.jpg",
          "width":"92px"
         },
-	 	"sabotage":{  
-         "url":"http://i.imgur.com/DxkUpMG.png",
-         "width":"220px",
-         "height":"58px"
-        },
-	 	"sabotage2":{  
-         "url":"http://i.imgur.com/iYWsush.png",
-         "width":"220px",
-         "height":"93px"
-        },
 		"sai":{  
          "url":"https://i.imgur.com/I80DvSW.png",
          "width":"104px",
@@ -1832,11 +1850,6 @@ window.ow_emotes = {
          "height":"89px",
          "url":"https://i.imgur.com/wXmhCyx.png",
          "width":"101px"
-        },
-		"warlocked":{  
-         "height":"44px",
-         "url":"http://i.imgur.com/bFy0SGJ.png",
-         "width":"220px"
         },
 	 	"war2":{  
          "height":"127x",
