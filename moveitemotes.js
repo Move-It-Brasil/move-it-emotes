@@ -448,6 +448,11 @@ window.ow_emotes = {
       }
  },
  "Usuários Move-It": {
+	 "branca":{  
+         "height":"215px",
+         "url":"http://i.imgur.com/74j5fjs.png",
+         "width":"220px"
+        },
 	 "dashing":{  
          "height":"39px",
          "url":"http://i.imgur.com/vQ1zH67.png",
