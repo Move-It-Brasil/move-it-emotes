@@ -1756,10 +1756,15 @@ window.ow_emotes = {
          "width":"83px"
         },
 	 	"programa":{  
-         "height":"144px",
-         "url":"http://i.imgur.com/niM2b5q.jpg",
-         "width":"110px"
+         "height":"120px",
+         "url":"http://i.imgur.com/G1Fnh5R.gif",
+         "width":"160px"
         },
+	        "programa2":{
+	 "height":"120px",
+	 "url":"http://i.imgur.com/XwmJ8zl.gif",
+	 "width":"160px"
+	},		
 		"psg":{  
          "url":"https://i.imgur.com/7DGHT1Z.jpg",
          "width":"161px",
