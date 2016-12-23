@@ -850,6 +850,11 @@ window.ow_emotes = {
          "width":"140px",
          "height":"77px"
         },
+	        "davy":{
+	 "height":"115px",
+	 "url":"http://i.imgur.com/YDg0p1j.png",
+	 "width":"115px",
+	},
 		"dança":{  
          "url":"https://i.imgur.com/E3dkL3t.gif",
          "width":"60px",
