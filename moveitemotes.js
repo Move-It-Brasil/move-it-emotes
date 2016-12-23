@@ -2090,7 +2090,12 @@ window.ow_emotes = {
          "url":"http://i.imgur.com/cCP0y6Y.png",
          "width":"131px"
         },
-		"viadãobonito":{  
+	        "viadão14":{	
+	 "height":"106px",
+	 "url":"http://i.imgur.com/ycNsLD1.png",	
+	 "width":"143px"
+	},		
+	        "viadãobonito":{  
          "height":"72px",
          "url":"https://i.imgur.com/zkO4uuS.jpg",
          "width":"95px"
