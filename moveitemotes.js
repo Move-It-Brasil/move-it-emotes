@@ -735,6 +735,9 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/M0OKa03.png",
          "width":"120px"
         },
+	        "caradecu":{
+	 "url":"http://i.imgur.com/zhn0D6L.png"
+	},
 		"caetano":{  
          "height":"90px",
          "url":"https://i.imgur.com/4zuh99t.gif",
