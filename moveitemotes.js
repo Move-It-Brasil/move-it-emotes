@@ -1891,10 +1891,14 @@ window.ow_emotes = {
          "height":"109px"
         },
 	  	"silvio3":{  
-         "url":"http://i.imgur.com/yL6RLI9.gif",
-         "width":"116px",
-         "height":"116px"
+         "url":"http://i.imgur.com/guDxj5c.png"
         },
+	        "silvio4":{
+	 "url":"http://i.imgur.com/5ysqApG.png"
+	},
+	        "silvio5":{
+	 "url":"http://i.imgur.com/yL6RLI9.gif"
+	},
 		"saxguy":{  
          "height":"92px",
          "url":"https://i.imgur.com/86nV3Ms.gif",
