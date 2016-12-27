@@ -1880,6 +1880,21 @@ window.ow_emotes = {
          "width":"104px",
          "height":"50px"
         },
+	 	"silvio":{  
+         "url":"http://i.imgur.com/kcLShhA.png",
+         "width":"148px",
+         "height":"104px"
+        },
+	 	"silvio2":{  
+         "url":"http://i.imgur.com/0uOi1UU.png",
+         "width":"140px",
+         "height":"109px"
+        },
+	  	"silvio3":{  
+         "url":"http://i.imgur.com/yL6RLI9.gif",
+         "width":"116px",
+         "height":"116px"
+        },
 		"saxguy":{  
          "height":"92px",
          "url":"https://i.imgur.com/86nV3Ms.gif",
