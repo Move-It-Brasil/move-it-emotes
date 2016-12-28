@@ -2,12 +2,18 @@ window.ow_emotes = {
  "Diversos":{
       "axl":{  
          "url":"https://i.imgur.com/eaYZ3m7.gif"
+	  "width":"120px",
+         "height":"120px"
         },
 	   "babby":{  
          "url":"https://i.imgur.com/u1O9yyD.png"
+         "width":"120px",
+         "height":"120px"
         },
 	   "banger":{  
          "url":"https://i.imgur.com/1OSsdHD.gif"
+        "width":"120px",
+         "height":"120px"
       },
       "banger2":{  
          "url":"https://i.imgur.com/LwcEmSG.gif"
