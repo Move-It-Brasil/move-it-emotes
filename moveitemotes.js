@@ -353,967 +353,580 @@ window.ow_emotes = {
  },
  "Brasileiros": {
 	      "ébixa":{  
-         "height":"103px",
-         "url":"http://i.imgur.com/czixYkx.png",
-         "width":"142px"
+         "url":"http://i.imgur.com/czixYkx.png"
         },
              "émermo":{  
-         "height":"90px",
-         "url":"https://i.imgur.com/Ps0U7pW.gif",
-         "width":"120px"
+         "url":"https://i.imgur.com/Ps0U7pW.gif"
         },
 	   "émentira":{  
-         "height":"80px",
-         "url":"https://i.imgur.com/JQEmF2m.gif",
-         "width":"96px"
+         "url":"https://i.imgur.com/JQEmF2m.gif"
         },
 		"ésim":{  
-         "url":"https://i.imgur.com/tALpIWp.jpg",
-         "width":"109px",
-         "height":"70px"
+         "url":"https://i.imgur.com/tALpIWp.jpg"
         },
 		".v.":{  
-         "height":"64px",
-         "url":"https://i.imgur.com/C79uctl.gif",
-         "width":"120px"
+         "url":"https://i.imgur.com/C79uctl.gif"
         },
 		"100%":{  
-         "height":"49px",
-         "url":"https://i.imgur.com/nhz07pH.jpg",
-         "width":"156px"
+         "url":"https://i.imgur.com/nhz07pH.jpg"
         },
 		"acabou":{  
-         "height":"100px",
-         "url":"https://imgur.com/vfN1hJq.jpg",
-         "width":"135px"
+         "url":"https://imgur.com/vfN1hJq.jpg"
         },
 		"agredi":{  
-         "url":"https://i.imgur.com/JB7zmTi.png",
-         "width":"185px",
-         "height":"104px"
+         "url":"https://i.imgur.com/JB7zmTi.png"
         },
 	 	"alahu":{  
-         "url":"https://i.imgur.com/dLU83pq.gif",
-         "width":"127px",
-         "height":"112px"
+         "url":"https://i.imgur.com/dLU83pq.gif"
         },
 		"anel":{  
-         "height":"100px",
-         "url":"https://i.imgur.com/XoEFSNa.jpg",
-         "width":"90px"
+         "url":"https://i.imgur.com/XoEFSNa.jpg"
         },
 		"apunhala":{  
-         "height":"100px",
-         "url":"https://i.imgur.com/nlscXR7.gif",
-         "width":"120px"
+         "url":"https://i.imgur.com/nlscXR7.gif"
         },
 	 	"applause":{  
-         "height":"105px",
-         "url":"http://i.imgur.com/vOEYUC3.jpg",
-         "width":"140px"
+         "url":"http://i.imgur.com/vOEYUC3.jpg"
         },
 		"away":{  
-         "height":"88px",
-         "url":"https://i.imgur.com/RzY8ev4.gif",
-         "width":"104px"
+         "url":"https://i.imgur.com/RzY8ev4.gif"
         },
 		"baidu":{  
-         "url":"https://i.imgur.com/nbdh0aA.jpg",
-         "width":"60px",
-         "height":"60px"
+         "url":"https://i.imgur.com/nbdh0aA.jpg"
         },
 		"ban":{  
-         "url":"https://i.imgur.com/GqRd92T.jpg",
-         "width":"120px",
-         "height":"100px"
+         "url":"https://i.imgur.com/GqRd92T.jpg"
         },
 	 	"ban2":{  
-         "url":"http://i.imgur.com/tOXnNMn.jpg",
-         "width":"163px",
-         "height":"83px"
+         "url":"http://i.imgur.com/tOXnNMn.jpg"
         },
 		"bemloco":{  
-         "height":"75px",
-         "url":"https://i.imgur.com/YQiKFHx.jpg",
-         "width":"64px"
+         "url":"https://i.imgur.com/YQiKFHx.jpg"
         },
 	 	"beijao":{  
-         "height":"100px",
-         "url":"http://i.imgur.com/WNdTdRp.gif",
-         "width":"100px"
+         "url":"http://i.imgur.com/WNdTdRp.gif"
         },
 		"bela":{  
-         "height":"105px",
-         "url":"http://i.imgur.com/aCTWWKz.jpg",
-         "width":"79px"
+         "url":"http://i.imgur.com/aCTWWKz.jpg"
         },
 	 	"bemmacho":{  
-         "height":"168px",
-         "url":"http://i.imgur.com/jv5l9Kb.png",
-         "width":"95px"
+         "url":"http://i.imgur.com/jv5l9Kb.png"
         },
 	 	"bengala":{  
-         "height":"168px",
-         "url":"http://i.imgur.com/XWES0xz.gif",
-         "width":"95px"
+         "url":"http://i.imgur.com/XWES0xz.gif"
         },
 		"berg":{  
-         "height":"90px",
-         "url":"https://i.imgur.com/ZGBr0D1.png",
-         "width":"120px"
+         "url":"https://i.imgur.com/ZGBr0D1.png"
         },
 		"bilada":{  
-         "url":"https://i.imgur.com/P8atE5v.png",
-         "width":"60px",
-         "height":"60px"
+         "url":"https://i.imgur.com/P8atE5v.png"
         },
 		"bino":{  
-         "height":"80px",
-         "url":"https://i.imgur.com/eaYZ3m7.gif",
-         "width":"80px"
+         "url":"https://i.imgur.com/eaYZ3m7.gif"
         },
 		"bixao":{  
-         "height":"100px",
-         "url":"https://i.imgur.com/Yu59ztU.png",
-         "width":"90px"
+         "url":"https://i.imgur.com/Yu59ztU.png"
         },
 		"bosta":{  
-         "url":"https://i.imgur.com/cukzX3j.png",
-         "width":"120px",
-         "height":"90px"
+         "url":"https://i.imgur.com/cukzX3j.png"
         },
 		"bory":{  
-         "height":"79px",
-         "url":"http://i.imgur.com/E3wAKDa.gif",
-         "width":"140px"
+         "url":"http://i.imgur.com/E3wAKDa.gif"
         },
 		"brasil":{  
-         "height":"74px",
-         "url":"https://i.imgur.com/o43kLTx.jpg",
-         "width":"112px"
+         "url":"https://i.imgur.com/o43kLTx.jpg"
         },
 		"brendan":{  
-         "height":"150px",
-         "url":"https://i.imgur.com/4GMdSLZ.gif",
-         "width":"100px"
+         "url":"https://i.imgur.com/4GMdSLZ.gif"
         },
 		"burro":{  
-         "height":"90px",
-         "url":"https://i.imgur.com/qle8kwP.gif",
-         "width":"120px"
+         "url":"https://i.imgur.com/qle8kwP.gif"
         },
 		"cachoeira":{  
-         "height":"89px",
-         "url":"https://i.imgur.com/M0OKa03.png",
-         "width":"120px"
+         "url":"https://i.imgur.com/M0OKa03.png"
         },
 	        "caradecu":{
 	 "url":"http://i.imgur.com/zhn0D6L.png"
 	},
 		"caetano":{  
-         "height":"90px",
-         "url":"https://i.imgur.com/4zuh99t.gif",
-         "width":"120px"
+         "url":"https://i.imgur.com/4zuh99t.gif"
         },
 		"café":{  
-         "height":"81px",
-         "url":"https://i.imgur.com/lMWBD0j.png",
-         "width":"104px"
+         "url":"https://i.imgur.com/lMWBD0j.png"
         },
 		"caimbra":{  
-         "height":"90px",
-         "url":"https://i.imgur.com/L4idMA8.gif",
-         "width":"120px"
+         "url":"https://i.imgur.com/L4idMA8.gif"
         },
 		"calmafera":{  
-         "height":"95px",
-         "url":"https://i.imgur.com/ZvPsaZ7.jpg",
-         "width":"103px"
+         "url":"https://i.imgur.com/ZvPsaZ7.jpg"
         },
 		"carsampley":{  
-         "height":"100px",
-         "url":"https://i.imgur.com/c1lqPLc.gif",
-         "width":"178px"
+         "url":"https://i.imgur.com/c1lqPLc.gif"
         },
 		"cazalbe":{  
-          "url":"https://dl.dropboxusercontent.com/s/cmdveivyf883e23/cazalbe.gif",
-         "width":"80px",
-         "height":"54px"
+          "url":"https://dl.dropboxusercontent.com/s/cmdveivyf883e23/cazalbe.gif"
         },
 		"cazalbe2":{  
-         "url":"https://i.imgur.com/15XzVbp.jpg",
-         "width":"66px",
-         "height":"56px"
+         "url":"https://i.imgur.com/15XzVbp.jpg"
         },
 	 	"cazalbe3":{  
-         "url":"http://i.imgur.com/GaZMeSm.gif",
-         "width":"120px",
-         "height":"160px"
+         "url":"http://i.imgur.com/GaZMeSm.gif"
         },
 		"chega":{  
-         "url":"https://i.imgur.com/chizmUF.gif",
-         "width":"130px",
-         "height":"56px"
+         "url":"https://i.imgur.com/chizmUF.gif"
         },
 		"chico":{  
-         "url":"https://i.imgur.com/jTncWAZ.png",
-         "width":"28px",
-         "height":"28px"
+         "url":"https://i.imgur.com/jTncWAZ.png"
         },
 		"chola":{  
-         "url":"https://i.imgur.com/UqwOG4q.gif",
-         "width":"104px",
-         "height":"75px"
+         "url":"https://i.imgur.com/UqwOG4q.gif"
         },
 		"chora":{  
-         "height":"90px",
-         "url":"https://i.imgur.com/hMZaAIg.gif",
-         "width":"160px"
+         "url":"https://i.imgur.com/hMZaAIg.gif"
         },
 		"chora2":{  
-         "url":"https://i.imgur.com/lc3SU60.gif",
-         "width":"120px",
-         "height":"120px"
+         "url":"https://i.imgur.com/lc3SU60.gif"
         },
 		"chora3":{  
-         "height":"150px",
-         "url":"https://i.imgur.com/EtSFqhT.gif",
-         "width":"120px"
+         "url":"https://i.imgur.com/EtSFqhT.gif"
         },
 		"chorei":{  
-         "height":"88px",
-         "url":"https://i.imgur.com/hFFM8Pn.jpg",
-         "width":"104px"
+         "url":"https://i.imgur.com/hFFM8Pn.jpg"
         },
 		"close1":{  
-         "height":"120px",
-         "url":"https://i.imgur.com/SGzBFTp.gif",
-         "width":"120px"
+         "url":"https://i.imgur.com/SGzBFTp.gif"
         },
 		"close2":{  
-         "height":"150px",
-         "url":"https://i.imgur.com/Laq6SCL.gif",
-         "width":"150px"
+         "url":"https://i.imgur.com/Laq6SCL.gif"
         },
 		"coração":{  
-         "width":"90px",
-      	 "height":"90px",
-      	 "url":"https://i.imgur.com/stGYuBH.jpg",
+      	 "url":"https://i.imgur.com/stGYuBH.jpg"
         },
 		"corre":{  
-         "url":"https://i.imgur.com/LrT4c1X.jpg",
-         "width":"120px",
-         "height":"120px"
+         "url":"https://i.imgur.com/LrT4c1X.jpg"
         },
 		"costinha":{  
-         "height":"82px",
-         "url":"https://i.imgur.com/K4x7UqI.gif",
-         "width":"102px"
+         "url":"https://i.imgur.com/K4x7UqI.gif"
         },
 		"cryisfree":{  
-         "url":"https://i.imgur.com/ZHj6lkY.png",
-         "width":"104px",
-         "height":"50px"
+         "url":"https://i.imgur.com/ZHj6lkY.png"
         },
 		"cu":{  
-         "height":"92px",
-         "url":"https://i.imgur.com/DGaDOyK.gif",
-         "width":"123px"
+         "url":"https://i.imgur.com/DGaDOyK.gif"
         },
 	 	"dab":{  
-         "url":"http://i.imgur.com/RSB9I90.gif",
-         "width":"140px",
-         "height":"77px"
+         "url":"http://i.imgur.com/RSB9I90.gif"
         },
 	        "davy":{
-	 "height":"115px",
-	 "url":"http://i.imgur.com/YDg0p1j.png",
-	 "width":"115px",
+	 "url":"http://i.imgur.com/YDg0p1j.png"
 	},
 		"dança":{  
-         "url":"https://i.imgur.com/E3dkL3t.gif",
-         "width":"60px",
-         "height":"85px"
+         "url":"https://i.imgur.com/E3dkL3t.gif"
         },
 		"dança2":{  
-         "url":"https://i.imgur.com/nre0Ptz.gif",
-         "width":"150px",
-         "height":"100px"
+         "url":"https://i.imgur.com/nre0Ptz.gif"
         },
 		"dança3":{  
-         "url":"https://i.imgur.com/rXviL4y.gif",
-         "width":"120px",
-         "height":"120px"
+         "url":"https://i.imgur.com/rXviL4y.gif"
         },
 		"dança4":{  
-         "url":"https://i.imgur.com/sekxiqi.gif",
-         "width":"150px",
-         "height":"100px"
+         "url":"https://i.imgur.com/sekxiqi.gif"
         },
 		"dança5":{  
-         "height":"130px",
-         "url":"http://i.imgur.com/8QnjShL.gif",
-         "width":"60px"
+         "url":"http://i.imgur.com/8QnjShL.gif"
         },
 		"dança6":{  
-         "height":"103px",
-         "url":"http://i.imgur.com/1J2Rmf4.gif",
-         "width":"185px"
+         "url":"http://i.imgur.com/1J2Rmf4.gif"
         },
 		"dança7":{  
-         "height":"103px",
-         "url":"http://i.imgur.com/lHrBhwU.gif",
-         "width":"185px"
+         "url":"http://i.imgur.com/lHrBhwU.gif"
         },
 		"dança8":{  
-         "height":"111px",
-         "url":"http://i.imgur.com/xAi5XWL.gif",
-         "width":"135px"
+         "url":"http://i.imgur.com/xAi5XWL.gif"
         },
 	 	"dança9":{  
-         "height":"96px",
-         "url":"http://i.imgur.com/XdSqpTM.gif",
-         "width":"144px"
+         "url":"http://i.imgur.com/XdSqpTM.gif"
         },
 	 	"dança10":{  
-         "height":"85px",
-         "url":"http://i.imgur.com/I7EKlSa.gif",
-         "width":"151px"
+         "url":"http://i.imgur.com/I7EKlSa.gif"
         },
 	 	"dança11":{  
-         "height":"84px",
-         "url":"http://i.imgur.com/ohGVaBH.gif",
-         "width":"143px"
+         "url":"http://i.imgur.com/ohGVaBH.gif"
         },
 	 	"dança12":{  
-         "height":"105px",
-         "url":"http://i.imgur.com/71FJDWi.gif",
-         "width":"105px"
+         "url":"http://i.imgur.com/71FJDWi.gif"
         },
 	 	"dança13":{  
-         "height":"105px",
-         "url":"http://i.imgur.com/waok7dM.gif",
-         "width":"130px"
+         "url":"http://i.imgur.com/waok7dM.gif"
         },
 	 	"dança14":{  
-         "height":"81px",
-         "url":"http://i.imgur.com/7hBvXg6.gif",
-         "width":"144px"
+         "url":"http://i.imgur.com/7hBvXg6.gif"
         },
 		"danada":{  
-         "height":"100px",
-         "url":"https://i.imgur.com/jJotain.png",
-         "width":"100px"
+         "url":"https://i.imgur.com/jJotain.png"
         },
 	 	"danada2":{  
-         "height":"116px",
-         "url":"http://i.imgur.com/X3SBiav.png",
-         "width":"143px"
+         "url":"http://i.imgur.com/X3SBiav.png"
         },
 		"dazero":{  
-         "url":"https://i.imgur.com/88ADPRt.png",
-         "width":"110px",
-         "height":"85px"
+         "url":"https://i.imgur.com/88ADPRt.png"
         },
 		"demencia":{  
-         "height":"57px",
-         "url":"https://i.imgur.com/OUiQqjM.jpg",
-         "width":"85px"
+         "url":"https://i.imgur.com/OUiQqjM.jpg"
         },
 		"demente":{  
-         "url":"https://i.imgur.com/hcFHm28.gif",
-         "width":"110px",
-         "height":"63px"
+         "url":"https://i.imgur.com/hcFHm28.gif"
         },
 		"deselegante":{  
-         "height":"89px",
-         "url":"https://i.imgur.com/H8PJvmc.png",
-         "width":"118px"
+         "url":"https://i.imgur.com/H8PJvmc.png"
         },
 		"deselegante2":{  
-         "height":"90px",
-         "url":"https://i.imgur.com/mvzHy3M.png",
-         "width":"88px"
+         "url":"https://i.imgur.com/mvzHy3M.png"
         },
 		"desgraça":{  
-         "height":"74px",
-         "url":"https://i.imgur.com/erZNL5n.png",
-         "width":"93px"
+         "url":"https://i.imgur.com/erZNL5n.png"
         },
 		"destruidora":{  
-         "url":"https://i.imgur.com/d6jxPLi.gif",
-         "width":"120px",
-         "height":"80px"
+         "url":"https://i.imgur.com/d6jxPLi.gif"
         },
 		"desu":{  
-         "url":"https://i.imgur.com/Z5cg89l.png",
-         "width":"120px",
-         "height":"90px"
+         "url":"https://i.imgur.com/Z5cg89l.png"
         },
 		"desver":{  
-         "url":"https://i.imgur.com/s5Q7YVs.jpg",
-         "width":"103px",
-         "height":"48px"
+         "url":"https://i.imgur.com/s5Q7YVs.jpg"
         },
 		"dibre":{  
-         "url":"https://i.imgur.com/oKyrjOv.png",
-         "width":"122px",
-         "height":"90px"
+         "url":"https://i.imgur.com/oKyrjOv.png"
         },
 		"dibre1":{  
-         "url":"https://i.imgur.com/UZQjGlG.png",
-         "width":"139px",
-         "height":"104px"
+         "url":"https://i.imgur.com/UZQjGlG.png"
         },
 		"dilma":{  
-         "height":"79px",
-         "url":"https://i.imgur.com/emL3hBV.png",
-         "width":"89px"
+         "url":"https://i.imgur.com/emL3hBV.png"
         },
 		"dilma2":{  
-         "height":"78px",
-         "url":"https://i.imgur.com/usdVJb3.jpg",
-         "width":"89px"
+         "url":"https://i.imgur.com/usdVJb3.jpg"
         },
 		"dilma3":{  
-         "height":"78px",
-         "url":"https://i.imgur.com/7eGFqGJ.jpg",
-         "width":"89px"
+         "url":"https://i.imgur.com/7eGFqGJ.jpg"
         },
 		"dilma4":{  
-         "height":"100px",
-         "url":"https://imgur.com/FdWAely.jpg",
-         "width":"135px"
+         "url":"https://imgur.com/FdWAely.jpg"
         },
 		"dilmapalm":{  
-         "height":"78px",
-         "url":"https://i.imgur.com/Ub19Cm1.jpg",
-         "width":"89px"
+         "url":"https://i.imgur.com/Ub19Cm1.jpg"
         },
 		"diney":{  
-         "width":"123px",
-      	 "height":"92px",
-      	 "url":"https://i.imgur.com/6IN6Pxu.gif",
+      	 "url":"https://i.imgur.com/6IN6Pxu.gif"
         },
 		"dinossauro":{  
-         "url":"https://i.imgur.com/T73QENt.png",
-         "width":"95px",
-         "height":"88px"
+         "url":"https://i.imgur.com/T73QENt.png"
         },
 		"dinossauro2":{  
-         "url":"https://i.imgur.com/0nk9NBf.gif",
-         "width":"104px",
-         "height":"84px"
+         "url":"https://i.imgur.com/0nk9NBf.gif"
         },
 		"dinossauro3":{  
-         "url":"https://i.imgur.com/jD2sDdm.gif",
-         "width":"136px",
-         "height":"122px"
+         "url":"https://i.imgur.com/jD2sDdm.gif"
         },
 		"diploma":{  
-         "height":"90px",
-         "url":"https://i.imgur.com/aNySCx2.jpg",
-         "width":"130px"
+         "url":"https://i.imgur.com/aNySCx2.jpg"
         },
 		"disseban":{  
-         "height":"80px",
-         "url":"http://i.imgur.com/06d5o1R.jpg?1",
-         "width":"120px"
+         "url":"http://i.imgur.com/06d5o1R.jpg?1"
         },
 		"disposta":{  
-         "height":"100px",
-         "url":"https://imgur.com/7Xr6mJ5.jpg",
-         "width":"100px"
+         "url":"https://imgur.com/7Xr6mJ5.jpg"
         },
 		"diva":{  
-         "url":"https://dl.dropboxusercontent.com/s/ordgqct09npvogd/diva.gif",
-         "width":"104px",
-         "height":"104px"
+         "url":"https://dl.dropboxusercontent.com/s/ordgqct09npvogd/diva.gif"
         },
 		"dlç":{  
-         "url":"https://i.imgur.com/OgwkZzo.png",
-         "width":"28px",
-         "height":"28px"
+         "url":"https://i.imgur.com/OgwkZzo.png"
         },
 		"dlç2":{  
-         "url":"https://i.imgur.com/JZ8VKWc.jpg",
-         "width":"55px",
-         "height":"55px"
+         "url":"https://i.imgur.com/JZ8VKWc.jpg"
         },
 		"dlç3":{  
-         "url":"https://i.imgur.com/e445lXo.png",
-         "width":"123px",
-         "height":"75px"
+         "url":"https://i.imgur.com/e445lXo.png"
         },
 		"dlç4":{  
-         "url":"https://i.imgur.com/EkOBJyT.png",
-         "width":"70px",
-         "height":"70px"
+         "url":"https://i.imgur.com/EkOBJyT.png"
         },
 		"dlç5":{  
-         "width":"90px",
-      	 "height":"90px",
-      	 "url":"https://i.imgur.com/SnIVw8Q.jpg",
+      	 "url":"https://i.imgur.com/SnIVw8Q.jpg"
         },
 		"dlçgif":{  
-         "url":"https://i.imgur.com/1cU7mt3.gif",
-         "width":"104px",
-         "height":"80px"
+         "url":"https://i.imgur.com/1cU7mt3.gif"
         },
 		"dlc":{  
-         "height":"100px",
-         "url":"https://i.imgur.com/GIfMPSz.jpg",
-         "width":"100px"
+         "url":"https://i.imgur.com/GIfMPSz.jpg"
         },
 	 	"docil":{  
-         "height":"124px",
-         "url":"http://i.imgur.com/4o2FglN.png",
-         "width":"128px"
+         "url":"http://i.imgur.com/4o2FglN.png"
         },
 		"dollynho":{  
-         "url":"https://i.imgur.com/66UwC9Q.jpg",
-         "width":"108px",
-         "height":"81px"
+         "url":"https://i.imgur.com/66UwC9Q.jpg"
         },
 		"dopado":{  
-         "url":"https://i.imgur.com/DQI1o7D.gif",
-         "width":"120px",
-         "height":"120px"
+         "url":"https://i.imgur.com/DQI1o7D.gif"
         },
 		"dragão":{  
-         "url":"https://i.imgur.com/b79bIsm.png",
-         "width":"107px",
-         "height":"86px"
+         "url":"https://i.imgur.com/b79bIsm.png"
         },
 	 	"drama":{  
-         "url":"http://i.imgur.com/eelMT43.gif",
-         "width":"154px",
-         "height":"83px"
+         "url":"http://i.imgur.com/eelMT43.gif"
         },
 		"dribe":{  
-         "url":"https://i.imgur.com/IfVOE3J.jpg",
-         "width":"106px",
-         "height":"52px"
+         "url":"https://i.imgur.com/IfVOE3J.jpg"
         },
 		"dribe2":{  
-         "height":"90px",
-         "url":"https://i.imgur.com/aUkbohX.jpg",
-         "width":"55px"
+         "url":"https://i.imgur.com/aUkbohX.jpg"
         },
 		"dribe3":{  
-         "height":"79px",
-         "url":"https://i.imgur.com/57FtsgX.jpg",
-         "width":"97px"
+         "url":"https://i.imgur.com/57FtsgX.jpg"
         },
 		"dribe4":{  
-         "width":"136px",
-      	 "height":"90px",
-      	 "url":"https://i.imgur.com/CjizyLK.jpg",
+      	 "url":"https://i.imgur.com/CjizyLK.jpg"
         },
 		"empolgante":{  
-         "height":"130px",
-         "url":"https://i.imgur.com/R3HHVD2.jpg",
-         "width":"130px"
+         "url":"https://i.imgur.com/R3HHVD2.jpg"
         },
 		"em":{  
-         "height":"99px",
-         "url":"https://i.imgur.com/qlMQyza.jpg",
-         "width":"117px"
+         "url":"https://i.imgur.com/qlMQyza.jpg"
         },
 		"emsm":{  
-         "url":"https://i.imgur.com/aDhjPXx.jpg",
-         "width":"59px",
-         "height":"80px"
+         "url":"https://i.imgur.com/aDhjPXx.jpg"
         },
 		"emsme":{  
-         "height":"59px",
-         "url":"https://i.imgur.com/pfQVT5U.jpg",
-         "width":"79px"
+         "url":"https://i.imgur.com/pfQVT5U.jpg"
         },
 		"engraçado":{  
-         "height":"91px",
-         "url":"http://i.imgur.com/n6c80tr.jpg",
-         "width":"120px"
+         "url":"http://i.imgur.com/n6c80tr.jpg"
         },
 		"erou":{  
-         "url":"https://i.imgur.com/4wrakbp.jpg",
-         "width":"139px",
-         "height":"104px"
+         "url":"https://i.imgur.com/4wrakbp.jpg"
         },
 		"euquis":{  
-         "url":"https://i.imgur.com/iZdZPPd.jpg",
-         "width":"81px",
-         "height":"104px"
+         "url":"https://i.imgur.com/iZdZPPd.jpg"
         },
 		"fafa":{  
-         "url":"https://i.imgur.com/m8ZopBV.gif",
-         "width":"136px",
-         "height":"141px"
+         "url":"https://i.imgur.com/m8ZopBV.gif"
         },
 		"faleceu":{  
-         "height":"51px",
-         "url":"https://i.imgur.com/vZE62y1.jpg",
-         "width":"69px"
+         "url":"https://i.imgur.com/vZE62y1.jpg"
         },
 	 	"faustão":{  
-         "url":"http://i.imgur.com/SX0OANN.gif",
-         "width":"123px",
-         "height":"140px"
+         "url":"http://i.imgur.com/SX0OANN.gif"
         },
 	 	"faustão2":{  
-         "url":"http://i.imgur.com/9riYpDN.png",
-         "width":"98px",
-         "height":"156px"
+         "url":"http://i.imgur.com/9riYpDN.png"
         },
 		"ficouoh":{  
-         "url":"http://i.imgur.com/8y2SXIF.png",
-         "width":"138px",
-         "height":"104px"
+         "url":"http://i.imgur.com/8y2SXIF.png"
         },
 	 	"ficouoh":{  
-         "url":"https://i.imgur.com/h1ZFm2P.jpg",
-         "width":"79px",
-         "height":"55px"
+         "url":"https://i.imgur.com/h1ZFm2P.jpg"
         },
 		"foda-se":{  
-         "height":"90px",
-         "url":"https://i.imgur.com/8pBXLn7.gif",
-         "width":"106px"
+         "url":"https://i.imgur.com/8pBXLn7.gif"
         },
 		"foda-se2":{  
-         "height":"90px",
-         "url":"https://i.imgur.com/bCYVoEx.jpg",
-         "width":"126px"
+         "url":"https://i.imgur.com/bCYVoEx.jpg"
         },
 		"foda-se3":{  
-         "height":"80px",
-         "url":"https://i.imgur.com/0EfQWMN.jpg",
-         "width":"100px"
+         "url":"https://i.imgur.com/0EfQWMN.jpg"
         },
 		"foda-se4":{  
-         "height":"150px",
-         "url":"http://i.imgur.com/X7HEXSX.png",
-         "width":"250px"
+         "url":"http://i.imgur.com/X7HEXSX.png"
         },
 		"foda.se":{  
-         "height":"120px",
-         "url":"https://i.imgur.com/Ju4rLQA.jpg",
-         "width":"120px"
+         "url":"https://i.imgur.com/Ju4rLQA.jpg"
         },
 		"fodace":{  
-         "url":"https://i.imgur.com/mbHJvoR.gif",
-         "width":"120px",
-         "height":"120px"
+         "url":"https://i.imgur.com/mbHJvoR.gif"
         },
 		"fodase":{  
-         "height":"58px",
-         "url":"https://i.imgur.com/j1cSxm0.jpg",
-         "width":"77px"
+         "url":"https://i.imgur.com/j1cSxm0.jpg"
         },
 	 	"foderem":{  
-         "height":"107px",
-         "url":"http://i.imgur.com/IiMER0v.jpg",
-         "width":"143px"
+         "url":"http://i.imgur.com/IiMER0v.jpg"
         },
 		"fofão":{  
-         "url":"https://i.imgur.com/8Mq3tPR.gif",
-         "width":"120px",
-         "height":"90px"
+         "url":"https://i.imgur.com/8Mq3tPR.gif"
         },
 		"freestep":{  
-         "height":"90px",
-         "url":"https://i.imgur.com/bfDKHgM.gif",
-         "width":"160px"
+         "url":"https://i.imgur.com/bfDKHgM.gif"
         },
 	 	"frio":{  
-         "url":"http://i.imgur.com/noV17ej.png",
-         "width":"120px",
-         "height":"166px"
+         "url":"http://i.imgur.com/noV17ej.png"
         },
 		"gato":{  
-         "height":"70px",
-         "url":"https://i.imgur.com/wRI10nK.gif",
-         "width":"102px"
+         "url":"https://i.imgur.com/wRI10nK.gif"
         },
 		"gente":{  
-         "height":"86px",
-         "url":"https://i.imgur.com/ORjnzfn.jpg",
-         "width":"64px"
+         "url":"https://i.imgur.com/ORjnzfn.jpg"
         },
 		"graça":{  
-         "height":"100px",
-         "url":"https://i.imgur.com/4f7LR3B.jpg",
-         "width":"120px"
+         "url":"https://i.imgur.com/4f7LR3B.jpg"
         },
 	 	"gstv":{  
-         "height":"102px",
-         "url":"http://i.imgur.com/fju5hwW.jpg",
-         "width":"145px"
+         "url":"http://i.imgur.com/fju5hwW.jpg"
         },
 	 	"gorila":{  
-         "height":"116px",
-         "url":"http://i.imgur.com/uX0nWaU.png",
-         "width":"115px"
+         "url":"http://i.imgur.com/uX0nWaU.png"
         },
 	 	"gorila2":{  
-         "height":"89px",
-         "url":"http://i.imgur.com/36YWez6.gif",
-         "width":"115px"
+         "url":"http://i.imgur.com/36YWez6.gif"
         },
 	 	"gorila3":{  
-         "height":"113px",
-         "url":"http://i.imgur.com/rHrINm6.jpg",
-         "width":"113px"
+         "url":"http://i.imgur.com/rHrINm6.jpg"
         },
 	 	"hack":{  
-         "height":"141px",
-         "url":"http://i.imgur.com/0jO2pig.png",
-         "width":"137px"
+         "url":"http://i.imgur.com/0jO2pig.png"
         },
 		"hino":{  
-         "height":"108px",
-         "url":"http://i.imgur.com/sued5LA.gif",
-         "width":"120px"
+         "url":"http://i.imgur.com/sued5LA.gif"
         },
 		"hjn":{  
-         "height":"63px",
-         "url":"https://i.imgur.com/SoZkcP3.jpg",
-         "width":"84px"
+         "url":"https://i.imgur.com/SoZkcP3.jpg"
         },
 		"hmm":{  
-         "height":"100px",
-         "url":"https://i.imgur.com/ofTagdg.gif",
-         "width":"120px"
+         "url":"https://i.imgur.com/ofTagdg.gif"
         },
 		"hmm2":{  
-         "height":"100px",
-         "url":"https://i.imgur.com/4PzgMep.jpg",
-         "width":"100px"
+         "url":"https://i.imgur.com/4PzgMep.jpg"
         },
 		"hu3":{  
-         "height":"90px",
-         "url":"https://i.imgur.com/wiQ0cyG.gif",
-         "width":"144px"
+         "url":"https://i.imgur.com/wiQ0cyG.gif"
         },
 		"hu3br":{  
-         "height":"93px",
-         "url":"https://i.imgur.com/lM5EMUZ.jpg",
-         "width":"90px"
+         "url":"https://i.imgur.com/lM5EMUZ.jpg"
         },
 		"huera":{  
-         "height":"100px",
-         "url":"https://i.imgur.com/eGdbSgO.jpg",
-         "width":"120px"
+         "url":"https://i.imgur.com/eGdbSgO.jpg"
         },
 		"idai":{  
-         "height":"80px",
-         "url":"https://i.imgur.com/OgHQCry.jpg",
-         "width":"90px"
+         "url":"https://i.imgur.com/OgHQCry.jpg"
         },
 		"idiota":{  
-         "url":"https://i.imgur.com/ocsGCQv.gif",
-         "width":"150px",
-         "height":"70px"
+         "url":"https://i.imgur.com/ocsGCQv.gif"
         },
 		"infarto":{  
-         "url":"https://i.imgur.com/3hvzwln.jpg",
-         "width":"140px",
-         "height":"114px"
+         "url":"https://i.imgur.com/3hvzwln.jpg"
         },
 		"istudu":{  
-         "url":"https://i.imgur.com/XuJbgWk.gif",
-         "width":"150px",
-         "height":"70px"
+         "url":"https://i.imgur.com/XuJbgWk.gif"
         },
 		"jachega":{  
-         "height":"120px",
-         "url":"https://i.imgur.com/aTmTdas.png",
-         "width":"100px"
+         "url":"https://i.imgur.com/aTmTdas.png"
         },
 		"jailson":{  
-         "url":"https://i.imgur.com/dVthkoQ.gif",
-         "width":"104px",
-         "height":"80px"
+         "url":"https://i.imgur.com/dVthkoQ.gif"
         },
 		"jailson2":{  
-         "url":"https://i.imgur.com/sLlX5B2.jpg",
-         "width":"84px",
-         "height":"84px"
+         "url":"https://i.imgur.com/sLlX5B2.jpg"
         },
 		"jailson3":{  
-         "url":"https://i.imgur.com/XfJNTVs.jpg",
-         "width":"61px",
-         "height":"71px"
+         "url":"https://i.imgur.com/XfJNTVs.jpg"
         },
 		"jailson4":{  
-         "url":"https://i.imgur.com/G08Oq6x.gif",
-         "width":"116px",
-         "height":"89px"
+         "url":"https://i.imgur.com/G08Oq6x.gif"
         },
 	 	"jc":{  
-         "url":"http://i.imgur.com/FR4MDmc.jpg",
-         "width":"114px",
-         "height":"111px"
+         "url":"http://i.imgur.com/FR4MDmc.jpg"
         },
 		"jureg":{  
-         "height":"112px",
-         "url":"https://i.imgur.com/SDzmH3a.jpg",
-         "width":"199px"
+         "url":"https://i.imgur.com/SDzmH3a.jpg"
         },
 		"jureg2":{  
-         "height":"111px",
-         "url":"http://i.imgur.com/3R2VGem.png",
-         "width":"196px"
+         "url":"http://i.imgur.com/3R2VGem.png"
         },
 		"jureg3":{  
-         "height":"103px",
-         "url":"https://i.imgur.com/V4Ly6IE.png",
-         "width":"199px"
+         "url":"https://i.imgur.com/V4Ly6IE.png"
         },
 		"jureg4":{  
-         "height":"105px",
-         "url":"http://i.imgur.com/Yb3TB0p.png",
-         "width":"195px"
+         "url":"http://i.imgur.com/Yb3TB0p.png"
         },
 		"léostronda":{  
-         "height":"51px",
-         "url":"https://i.imgur.com/tsv7zX4.png",
-         "width":"259px"
+         "url":"https://i.imgur.com/tsv7zX4.png"
         },
 		"legal":{  
-         "height":"56px",
-         "url":"https://i.imgur.com/NAvDJFl.jpg",
-         "width":"75px"
-        },
-		"lennyface":{  
-         "height":"47px",
-         "url":"https://i.imgur.com/g4zRJ9C.jpg",
-         "width":"108px"
+         "url":"https://i.imgur.com/NAvDJFl.jpg"
         },
 		"ler":{  
-         "height":"94px",
-         "url":"https://i.imgur.com/dP3k6pR.jpg",
-         "width":"240px"
+         "url":"https://i.imgur.com/dP3k6pR.jpg"
         },
 		"linteressa":{  
-         "url":"https://i.imgur.com/xhCO25z.gif",
-         "width":"147px",
-         "height":"70px"
+         "url":"https://i.imgur.com/xhCO25z.gif"
         },
 		"madruga":{  
-         "url":"https://i.imgur.com/OvDq257.gif",
-         "width":"108px",
-         "height":"88px"
+         "url":"https://i.imgur.com/OvDq257.gif"
         },
 	 		 "maigode":{
-         "height":"90px",
-         "url":"https://i.imgur.com/6kZ4Br6.jpg",
-         "width":"100px"
+         "url":"https://i.imgur.com/6kZ4Br6.jpg"
         },
          "maigode2":{
-         "height":"100px",
-         "url":"https://i.imgur.com/n79SjXm.jpg",
-         "width":"100px"
+         "url":"https://i.imgur.com/n79SjXm.jpg"
         },
 		"mandanude":{  
-         "url":"https://i.imgur.com/PTYLcye.png",
-         "width":"131px",
-         "height":"90px"
+         "url":"https://i.imgur.com/PTYLcye.png"
         },
 	 	"mangueira":{  
-         "url":"http://i.imgur.com/IqYEAAt.gif",
-         "width":"168px",
-         "height":"95px"
+         "url":"http://i.imgur.com/IqYEAAt.gif"
         },
 	 	"mangueira2":{  
-         "url":"http://i.imgur.com/g7UXP6Q.gif",
-         "width":"168px",
-         "height":"95px"
+         "url":"http://i.imgur.com/g7UXP6Q.gif"
         },
 	 	"mangueira3":{  
-         "url":"http://i.imgur.com/xd7ehev.gif",
-         "width":"168px",
-         "height":"95px"
+         "url":"http://i.imgur.com/xd7ehev.gif"
         },
 	 	"mano":{  
-         "url":"http://i.imgur.com/ppZPMUP.gif",
-         "width":"131px",
-         "height":"85px"
+         "url":"http://i.imgur.com/ppZPMUP.gif"
         },
 		"marcelo":{  
-         "height":"100px",
-          "url":"https://i.imgur.com/KJ7VuYX.jpg",
-          "width":"93px"
+          "url":"https://i.imgur.com/KJ7VuYX.jpg"
         },
 		"marreco":{  
-         "height":"110px",
-         "url":"http://i.imgur.com/VUZxXTX.jpg",
-         "width":"152px"
+         "url":"http://i.imgur.com/VUZxXTX.jpg"
         },
 	 	"marreco2":{  
-         "height":"106px",
-         "url":"http://i.imgur.com/vkiUm47.jpg",
-         "width":"141px"
+         "url":"http://i.imgur.com/vkiUm47.jpg"
         },
 		"marina":{  
-         "url":"https://i.imgur.com/UHRpp4d.png",
-         "width":"90px",
-         "height":"90px"
+         "url":"https://i.imgur.com/UHRpp4d.png"
         },
 	 	"marinho":{  
-         "url":"http://i.imgur.com/1fi0yJK.png",
-         "width":"93px",
-         "height":"165px"
+         "url":"http://i.imgur.com/1fi0yJK.png"
         },
 		"masc":{  
-         "url":"https://i.imgur.com/O49ugVB.png",
-         "width":"216px",
-         "height":"104px"
+         "url":"https://i.imgur.com/O49ugVB.png"
         },
 		"mehh":{  
-         "height":"100px",
-         "url":"http://i.imgur.com/6lYPeQO.jpg",
-         "width":"100px"
+         "url":"http://i.imgur.com/6lYPeQO.jpg"
         },
 		"meobrigue":{  
-         "url":"https://i.imgur.com/HrfUfMS.png",
-         "width":"128px",
-         "height":"90px"
+         "url":"https://i.imgur.com/HrfUfMS.png"
         },
 		"mizeravi":{  
-         "height":"82px",
-         "url":"https://i.imgur.com/4ILWtwV.png",
-         "width":"54px"
+         "url":"https://i.imgur.com/4ILWtwV.png"
         },
 		"moitai":{  
-         "height":"56px",
-         "url":"https://i.imgur.com/X379iNh.png",
-         "width":"330px"
+         "url":"https://i.imgur.com/X379iNh.png"
         },
 		"monalicia":{  
-         "url":"https://i.imgur.com/35Jrx9b.png",
-         "width":"74px",
-         "height":"74px"
+         "url":"https://i.imgur.com/35Jrx9b.png"
         },
 		"monstrogif":{  
-         "url":"https://i.imgur.com/15hqUd0.gif",
-         "width":"104px",
-         "height":"88px"
+         "url":"https://i.imgur.com/15hqUd0.gif"
         },
 		"morre":{  
-         "url":"https://i.imgur.com/B100qjp.gif",
-         "width":"115px",
-         "height":"86px"
+         "url":"https://i.imgur.com/B100qjp.gif"
         },
 		"morrison":{  
-         "height":"120px",
-         "url":"https://i.imgur.com/6g3PA6d.gif",
-         "width":"120px"
+         "url":"https://i.imgur.com/6g3PA6d.gif"
         },
 	 	"moveit":{  
-         "height":"166px",
-         "url":"http://i.imgur.com/W5T4tUg.png",
-         "width":"126px"
+         "url":"http://i.imgur.com/W5T4tUg.png"
         },
 		"nãosei":{  
          "height":"70px",
