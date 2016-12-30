@@ -503,11 +503,6 @@ window.ow_emotes = {
 		      "width":"120px",
          "height":"120px"
         },
-	 "eminemgay":{  
-         "url":"http://i.imgur.com/2DjcwPv.png",
-		      "width":"120px",
-         "height":"120px"
-        },
 	 "eduarda2":{  
          "url":"http://i.imgur.com/BJiJ9dg.png",
 		      "width":"120px",
