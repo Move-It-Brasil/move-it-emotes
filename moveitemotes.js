@@ -1410,7 +1410,27 @@ window.ow_emotes = {
 		      "width":"120px",
          "height":"120px"
         },
-		"legal":{  
+	        "laranjo":{  
+         "url":"http://i.imgur.com/3GkAuTG.png",
+		      "width":"120px",
+         "height":"120px"
+	},
+	        "laranjo2":{  
+         "url":"http://i.imgur.com/KhLTRW9.png",
+		      "width":"120px",
+         "height":"120px"
+	},
+	        "laranjo3":{  
+         "url":"http://i.imgur.com/XekxPdl.png",
+		      "width":"120px",
+         "height":"120px"
+	},
+	        "laranjo4":{  
+         "url":"http://i.imgur.com/w4PMRKE.png",
+		      "width":"120px",
+         "height":"120px"
+	},
+		"legal":{
          "url":"https://i.imgur.com/NAvDJFl.jpg",
 		      "width":"120px",
          "height":"120px"
