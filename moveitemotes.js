@@ -676,7 +676,7 @@ window.ow_emotes = {
          "height":"120px"
         },
 	 	"bemmacho":{  
-         "url":"http://i.imgur.com/jv5l9Kb.png",
+         "url":"http://i.imgur.com/97AFOHq.png",
 		      "width":"120px",
          "height":"120px"
         },
