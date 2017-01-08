@@ -1900,6 +1900,11 @@ window.ow_emotes = {
 		      "width":"120px",
          "height":"120px"
         },
+	 	"sarrada":{  
+         "url":"https://i.imgur.com/tBYPrCM.gif",
+		      "width":"120px",
+         "height":"120px"
+        },
 	 	"silvio":{  
          "url":"http://i.imgur.com/kcLShhA.png",
 		      "width":"120px",
@@ -1977,6 +1982,11 @@ window.ow_emotes = {
         },
 		"suicídio":{  
          "url":"https://i.imgur.com/SpsBBF8.jpg",
+		      "width":"120px",
+         "height":"120px"
+        },
+	 	"sumiu":{  
+         "url":"https://i.imgur.com/APpwvdo.gif",
 		      "width":"120px",
          "height":"120px"
         },
