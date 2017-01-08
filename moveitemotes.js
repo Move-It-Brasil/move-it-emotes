@@ -5,8 +5,23 @@ window.ow_emotes = {
 	  "width":"120px",
          "height":"120px"
         },
+	 "babando":{  
+         "url":"http://i.imgur.com/vN7GYXE.gif",
+         "width":"120px",
+         "height":"120px"
+        },
+	 "babando2":{  
+         "url":"http://i.imgur.com/4acw587.gif",
+         "width":"120px",
+         "height":"120px"
+        },
 	   "babby":{  
          "url":"https://i.imgur.com/u1O9yyD.png",
+         "width":"120px",
+         "height":"120px"
+        },
+	 "babby2":{  
+         "url":"http://i.imgur.com/BwK6QhW.gif",
          "width":"120px",
          "height":"120px"
         },
@@ -670,6 +685,11 @@ window.ow_emotes = {
 		      "width":"120px",
          "height":"120px"
         },
+	 	"beijao2":{  
+         "url":"http://i.imgur.com/ecirNOt.gif",
+		      "width":"120px",
+         "height":"120px"
+        },
 		"bela":{  
          "url":"http://i.imgur.com/aCTWWKz.jpg",
 		      "width":"120px",
@@ -927,6 +947,21 @@ window.ow_emotes = {
         },
 	 	"dança14":{  
          "url":"http://i.imgur.com/7hBvXg6.gif",
+		      "width":"120px",
+         "height":"120px"
+        },
+	 	"dança15":{  
+         "url":"http://i.imgur.com/xqRYEkg.gif",
+		      "width":"120px",
+         "height":"120px"
+        },
+	 	"dança16":{  
+         "url":"http://i.imgur.com/P05yLc2.gif",
+		      "width":"120px",
+         "height":"120px"
+        },
+	 	"dança17":{  
+         "url":"http://i.imgur.com/EEHgAjo.gif",
 		      "width":"120px",
          "height":"120px"
         },
