@@ -537,6 +537,11 @@ window.ow_emotes = {
          "url":"http://i.imgur.com/IJQOzQz.jpg",
 		      "width":"120px",
          "height":"120px"
+	}, 
+	  "mrharry":{  
+         "url":"http://i.imgur.com/K104fVC.png",
+		      "width":"120px",
+         "height":"120px"	 
         },
 	 "psg2":{  
          "url":"http://i.imgur.com/4cu64NF.png",
@@ -547,6 +552,21 @@ window.ow_emotes = {
          "url":"http://i.imgur.com/rR4sU9e.jpg",
 		      "width":"120px",
          "height":"120px"
+	},
+	 "raard":{	 
+	 "url":"http://i.imgur.com/cBVeOlL.jpg",
+		      "width":"120px",
+         "height":"120px"
+	},
+          "raard2":{	 
+	 "url":"http://i.imgur.com/CEXKtqJ.png",
+		      "width":"120px",
+         "height":"120px"
+	},
+	  "raard3":{	 
+	 "url":"http://i.imgur.com/GM0lr3l.png",
+		      "width":"120px",
+         "height":"120px" 
         },
 	 "sabotage":{  
          "url":"http://i.imgur.com/DxkUpMG.png",
