@@ -541,7 +541,12 @@ window.ow_emotes = {
 	  "mrharry":{  
          "url":"http://i.imgur.com/K104fVC.png",
 		      "width":"120px",
-         "height":"120px"	 
+         "height":"120px"
+        },
+	  "mrharry2":{  
+         "url":"http://i.imgur.com/lNnUTFE.png",
+		      "width":"120px",
+         "height":"120px"	
         },
 	 "psg2":{  
          "url":"http://i.imgur.com/4cu64NF.png",
@@ -647,6 +652,11 @@ window.ow_emotes = {
         },
 		"acabou":{  
          "url":"https://imgur.com/vfN1hJq.jpg",
+		      "width":"120px",
+         "height":"120px"
+	},
+	        "ata":{  
+         "url":"http://i.imgur.com/olun6Vz.png",
 		      "width":"120px",
          "height":"120px"
         },
@@ -894,6 +904,11 @@ window.ow_emotes = {
 	 "url":"http://i.imgur.com/YDg0p1j.png",
 		      "width":"120px",
          "height":"120px"
+	},
+		"denis":{
+	 "url":"http://i.imgur.com/pI0zcGe.gif",
+		      "width":"120px",
+         "height":"120px"   
 	},
 		"dança":{  
          "url":"https://i.imgur.com/E3dkL3t.gif",
@@ -1620,11 +1635,16 @@ window.ow_emotes = {
 		      "width":"120px",
          "height":"120px"
         },
-		"nãosei":{  
+                "nãosei":{  
          "url":"https://i.imgur.com/QoPAHYd.png",
 		      "width":"120px",
          "height":"120px"
-        },
+	},
+                "ninfa":{  
+         "url":"http://i.imgur.com/cW8MBRb.gif",
+		      "width":"120px",
+         "height":"120px"
+	},
 		"nadave":{  
          "url":"https://i.imgur.com/IydoxRH.png",
 		      "width":"120px",
