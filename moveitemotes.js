@@ -905,6 +905,16 @@ window.ow_emotes = {
 		      "width":"120px",
          "height":"120px"
 	},
+		"davy2":{
+	 "url":"http://i.imgur.com/dlG5h8v.png",
+		      "width":"120px",
+         "height":"120px"
+	},
+		"davy3":{
+	 "url":"http://i.imgur.com/fXzvXUt.gif",
+		      "width":"120px",
+         "height":"120px"
+	},
 		"denis":{
 	 "url":"http://i.imgur.com/pI0zcGe.gif",
 		      "width":"120px",
@@ -1949,6 +1959,17 @@ window.ow_emotes = {
          "url":"https://i.imgur.com/puyTsuO.jpg",
 		      "width":"120px",
          "height":"120px"
+	},
+	        "ratão":{  
+         "url":"http://i.imgur.com/L0urfQS.gif",
+		      "width":"120px",
+         "height":"120px"
+	},
+		"ratão2":{  
+         "url":"http://i.imgur.com/hDWksJJ.png",
+		      "width":"120px",
+         "height":"120px"
+			
         },
 		"recalque":{  
          "url":"https://i.imgur.com/BvOMvP9.gif",
