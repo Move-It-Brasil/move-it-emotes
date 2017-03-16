@@ -582,6 +582,11 @@ window.ow_emotes = {
          "url":"http://i.imgur.com/TkbPNGh.png",
 		      "width":"120px",
          "height":"120px"
+	},
+		 "denin":{  
+         "url":"http://i.imgur.com/yGfCeqa.jpg",
+		      "width":"120px",
+         "height":"120px"
         },
 	 "eduarda":{  
          "url":"http://i.imgur.com/NRq4pTl.png",
@@ -1019,6 +1024,11 @@ window.ow_emotes = {
 	 "url":"http://i.imgur.com/fXzvXUt.gif",
 		      "width":"120px",
          "height":"120px"
+	},	
+			"davy4":{
+	 "url":"http://i.imgur.com/aAAI0VN.gif",
+		      "width":"120px",
+         "height":"120px"
 	},
 		"denis":{
 	 "url":"http://i.imgur.com/pI0zcGe.gif",
@@ -1112,6 +1122,11 @@ window.ow_emotes = {
         },
 	 "dança18":{  
          "url":"http://i.imgur.com/OG9RfLX.gif",
+		      "width":"120px",
+         "height":"120px"
+	},
+		 "dança19":{  
+         "url":"http://i.imgur.com/E0sH7Ba.gif",
 		      "width":"120px",
          "height":"120px"
         },
