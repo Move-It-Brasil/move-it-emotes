@@ -554,7 +554,7 @@ window.ow_emotes = {
          "height":"120px"
         },
 	 "dashing9":{  
-         "url":"http://i.imgur.com/aqaysf0.png",
+         "url":"http://i.imgur.com/tc8ykaA.png",
 		      "width":"120px",
          "height":"120px"
         },
