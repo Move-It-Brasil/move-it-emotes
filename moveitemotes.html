@@ -1,87 +1,32 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Move-It Emotes</title>
-<link rel="icon" href="http://i.imgur.com/SgO575j.png" />
-<link rel="STYLESHEET" type="text/css" href="styles.css">
+	<title>Emotes List</title>
 </head>
-<body bgcolor="
-}">
+<body bgcolor="grey">
 	<div id="main" align="center">
-		<div class="header">
-  <img src="http://i.imgur.com/mQZh9CT.jpg" alt="logo" />
-
-</div>
+		<h1>Emotes list</h1><br/>
+		<h3>Suggestions to new Emotes? You can send to us <a href="https://www.facebook.com/pages/OrigemWoot/323799137819519">in our page in Facebook.</a></h3>
 		<br/><br/>
 		
 		<div id="tables">
 		</div>
 	</div>
 </body>
-<style>
-body {
-background: rgba(168,118,9,1);
-background: -moz-linear-gradient(top, rgba(168,118,9,1) 0%, rgba(209,142,7,1) 21%, rgba(214,151,4,1) 45%, rgba(227,161,7,1) 69%, rgba(237,168,7,1) 86%, rgba(240,166,8,1) 100%);
-background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(168,118,9,1)), color-stop(21%, rgba(209,142,7,1)), color-stop(45%, rgba(214,151,4,1)), color-stop(69%, rgba(227,161,7,1)), color-stop(86%, rgba(237,168,7,1)), color-stop(100%, rgba(240,166,8,1)));
-background: -webkit-linear-gradient(top, rgba(168,118,9,1) 0%, rgba(209,142,7,1) 21%, rgba(214,151,4,1) 45%, rgba(227,161,7,1) 69%, rgba(237,168,7,1) 86%, rgba(240,166,8,1) 100%);
-background: -o-linear-gradient(top, rgba(168,118,9,1) 0%, rgba(209,142,7,1) 21%, rgba(214,151,4,1) 45%, rgba(227,161,7,1) 69%, rgba(237,168,7,1) 86%, rgba(240,166,8,1) 100%);
-background: -ms-linear-gradient(top, rgba(168,118,9,1) 0%, rgba(209,142,7,1) 21%, rgba(214,151,4,1) 45%, rgba(227,161,7,1) 69%, rgba(237,168,7,1) 86%, rgba(240,166,8,1) 100%);
-background: linear-gradient(to bottom, rgba(168,118,9,1) 0%, rgba(209,142,7,1) 21%, rgba(214,151,4,1) 45%, rgba(227,161,7,1) 69%, rgba(237,168,7,1) 86%, rgba(240,166,8,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a87609', endColorstr='#f0a608', GradientType=0 );
-}
-
-h1 {
-    color: blue;
-}
-body {
-    -moz-transform: scale(0.80, 0.80); /* Moz-browsers */
-    zoom: 0.86; /* Other non-webkit browsers */
-    zoom: 86%; /* Webkit browsers */
-}
-.header img {
-  float: none;
-  width: 1115px;
-  height: 275px;
-  background: none;
-}
-.emotes { 
-transition: all .1s ease-in-out; 
-}
-.emotes:hover {
-    transform: scale(1.4);
-    transition: 0.4s;
-    background-position: initial;
-    background-repeat: no-repeat !important;
-}
-.ico{
-    width:100px;
-    display:block;
-    height:20px;
-    background:none;
-    color:none;
-    text-decoration:none;
-    padding-left:20px;
-}
-</style>
 <script>
 	var xmlhttp = new XMLHttpRequest(),
-		url = "https://rawgit.com/Move-It-Brasil/move-it-emotes/master/moveitemotes.js";
-
+		url = "https://rawgit.com/AwayShift/Emotes/master/EmotesWO.js";
 	xmlhttp.onreadystatechange = function() {
 		if (xmlhttp.readyState == 4 && xmlhttp.status == 200){
-			eval(xmlhttp.responseText);
-			createTable(window.ow_emotes);
-			delete window.ow_emotes;
+			createTable(JSON.parse(xmlhttp.responseText));
 		}
 	};
 	xmlhttp.open("GET", url, true);
 	xmlhttp.send();
-
 	function createTable(emotes) {
 		var cont=0
 			max = 5,
 			html = '';
-
 		for (var i in emotes){
 			html += (!html ? '' : '<br/><br/>') + '\
 					<h2>' + i + '</h2>\
@@ -117,6 +62,5 @@ transition: all .1s ease-in-out;
 			
 		table.insertAdjacentHTML('beforeend', html);
 	}
-	
 </script>
 </html>
